@@ -1,0 +1,9 @@
+{
+  "groups": {
+    "default": {
+      "packages": [
+        "wp-content/plugins/revslider/includes/gutenberg-blocks/package.json"
+      ]
+    }
+  }
+}
