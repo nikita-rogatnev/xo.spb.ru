@@ -1,0 +1,4121 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Elessi Theme\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-04-19 08:49+0000\n"
+"PO-Revision-Date: 2019-05-05 17:06+0000\n"
+"Last-Translator: admin <mail@rogatnev.ru>\n"
+"Language-Team: Русский\n"
+"Language: ru_RU\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10 >= 2 && "
+"n%10<=4 &&(n%100<10||n%100 >= 20)? 1 : 2);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.2.2; wp-5.1.1"
+
+#: woocommerce/cart/cart-totals.php:85
+#, php-format
+msgid " (taxes estimated for %s)"
+msgstr "(налоги рассчитаны на %)"
+
+#: wishlist.php:67
+msgid " - In Stock"
+msgstr "- В наличии"
+
+#: wishlist.php:64
+msgid " - Out of Stock"
+msgstr "- Нет в наличии"
+
+#: admin/functions/functions.admin.php:1666
+msgid " don't accept create. Please try again."
+msgstr ""
+
+#: includes/nasa-sidebar-cart.php:41
+msgid " x "
+msgstr " x "
+
+#: admin/elements/nasa_05_type_heading.php:100
+msgid "$999."
+msgstr "$999."
+
+#. 1: plugin name.
+#: admin/classes/class-tgm-plugin-activation.php:3550
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#. 1: plugin name.
+#: admin/classes/class-tgm-plugin-activation.php:3558
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: cores/nasa-woo-functions.php:2057
+#, php-format
+msgid "%s"
+msgstr "%s"
+
+#. %s: Quantity.
+#: woocommerce/global/quantity-input.php:20
+#, php-format
+msgid "%s quantity"
+msgstr "%s количество"
+
+#: comments.php:20 comments.php:34
+msgid "&larr; Older Comments"
+msgstr "&larr; Предыдущие комментарии"
+
+#: admin/elements/nasa_01_general_heading.php:110
+msgid "(ms) Delay overlay items."
+msgstr "Задержка элементов наложения."
+
+#: widgets/wg-nasa-product-filter-price-list.php:156
+msgid "+"
+msgstr ""
+
+#: cores/nasa-widget-functions.php:446 cores/nasa-woo-functions.php:1273
+#: widgets/wg-nasa-product-brands.php:256
+#: widgets/wg-nasa-product-categories.php:348 widgets/wg-nasa-tag-cloud.php:60
+msgid "+ Show more"
+msgstr "+ Показать больше"
+
+#: content-single.php:46 content-single.php:47 includes/nasa-blog-grid.php:79
+#: includes/nasa-blog-grid.php:84 includes/nasa-blog-list.php:68
+#: includes/nasa-blog-list.php:73 includes/nasa-blog-masonry-isotope.php:83
+#: includes/nasa-blog-masonry-isotope.php:88 includes/nasa-blog-relate.php:48
+#: includes/nasa-blog-standard.php:62 includes/nasa-blog-standard.php:67
+#: widgets/wg-nasa-recent-posts.php:48
+msgid ", "
+msgstr ", "
+
+#: cores/nasa-widget-functions.php:449 cores/nasa-woo-functions.php:1273
+#: widgets/wg-nasa-product-brands.php:256
+#: widgets/wg-nasa-product-categories.php:348 widgets/wg-nasa-tag-cloud.php:60
+msgid "- Show less"
+msgstr "- Показывай меньше"
+
+#: cores/nasa-woo-functions.php:2486 cores/nasa-woo-functions.php:2491
+msgid "..."
+msgstr ""
+
+#: admin/elements/nasa_07_2_product_page_heading.php:89
+#: admin/elements/nasa_07_2_product_page_heading.php:100
+#: admin/elements/nasa_07_3_product_detail_heading.php:209
+#: admin/elements/nasa_07_3_product_detail_heading.php:220
+#: admin/elements/nasa_08_blog_heading.php:86
+#: admin/elements/nasa_08_blog_heading.php:97
+#: admin/elements/nasa_08_blog_heading.php:216
+#: admin/elements/nasa_08_blog_heading.php:227
+msgid "1 column"
+msgstr "1 столбец"
+
+#: cores/nasa-theme-functions.php:698
+#, php-format
+msgctxt "1: date, 2: time"
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: admin/elements/nasa_07_2_product_page_heading.php:90
+#: admin/elements/nasa_07_2_product_page_heading.php:101
+#: admin/elements/nasa_07_3_product_detail_heading.php:210
+#: admin/elements/nasa_07_3_product_detail_heading.php:221
+#: admin/elements/nasa_08_blog_heading.php:73
+#: admin/elements/nasa_08_blog_heading.php:87
+#: admin/elements/nasa_08_blog_heading.php:98
+#: admin/elements/nasa_08_blog_heading.php:217
+#: admin/elements/nasa_08_blog_heading.php:228
+#: admin/elements/nasa_10_portfolio_heading.php:87
+msgid "2 columns"
+msgstr "2 столбца"
+
+#: admin/elements/nasa_07_2_product_page_heading.php:77
+msgid "3 column"
+msgstr "3 столбца"
+
+#: admin/elements/nasa_07_2_product_page_heading.php:102
+#: admin/elements/nasa_07_3_product_detail_heading.php:197
+#: admin/elements/nasa_07_3_product_detail_heading.php:222
+#: admin/elements/nasa_08_blog_heading.php:74
+#: admin/elements/nasa_08_blog_heading.php:99
+#: admin/elements/nasa_08_blog_heading.php:204
+#: admin/elements/nasa_08_blog_heading.php:229
+#: admin/elements/nasa_10_portfolio_heading.php:86
+msgid "3 columns"
+msgstr "3 столбца"
+
+#: admin/elements/nasa_07_2_product_page_heading.php:78
+msgid "4 column"
+msgstr "4 столбца"
+
+#: admin/elements/nasa_07_3_product_detail_heading.php:198
+#: admin/elements/nasa_08_blog_heading.php:75
+#: admin/elements/nasa_08_blog_heading.php:205
+#: admin/elements/nasa_10_portfolio_heading.php:85
+msgid "4 columns"
+msgstr "4 столбца"
+
+#: 404.php:12
+msgid "404"
+msgstr "404"
+
+#: admin/elements/nasa_07_2_product_page_heading.php:79
+msgid "5 column"
+msgstr "5 колонок"
+
+#: admin/elements/nasa_07_3_product_detail_heading.php:199
+#: admin/elements/nasa_08_blog_heading.php:76
+#: admin/elements/nasa_08_blog_heading.php:206
+#: admin/elements/nasa_10_portfolio_heading.php:84
+msgid "5 columns"
+msgstr "5 колонок"
+
+#: admin/elements/nasa_09_promo_popup_heading.php:75
+msgid "50%"
+msgstr "50%"
+
+#: image.php:88
+#, php-format
+msgid ""
+"<a class=\"comment-link\" href=\"#respond\" title=\"Post a comment\">Post a "
+"comment</a> or leave a trackback: <a class=\"trackback-link\" href=\"%s\" "
+"title=\"Trackback URL for your post\" rel=\"trackback\">Trackback URL</a>."
+msgstr ""
+
+#: cores/nasa-theme-functions.php:208
+msgid "<li>Please Define menu in <b>Apperance > Menus</b></li>"
+msgstr ""
+
+#: cores/nasa-theme-functions.php:928
+msgid "<span class=\"fa fa-caret-left\"></span> Previous"
+msgstr "<span class=\"fa fa-caret-left\"></span> Предыдущий"
+
+#: cores/nasa-theme-functions.php:743
+#, php-format
+msgid ""
+"<span class=\"meta-author\">By <strong><a class=\"url fn n\" href=\"%5$s\" "
+"title=\"%6$s\" rel=\"author\">%7$s</a></strong>.</span> Posted on <a "
+"href=\"%1$s\" title=\"%2$s\" rel=\"bookmark\"><time class=\"entry-date\" "
+"datetime=\"%3$s\">%4$s</time></a>"
+msgstr ""
+
+#: image.php:101
+msgid "<span class=\"meta-nav\">&larr;</span> Previous"
+msgstr "<span class=\"meta-nav\">&larr;</span> Предыдущий"
+
+#: cores/nasa-woo-functions.php:1710
+msgid "<span>Availability:</span> "
+msgstr "<span>Наличие:</span> "
+
+#: widgets/wg-nasa-tag-cloud.php:17
+msgid "A cloud of your most used tags."
+msgstr "Облако ваших наиболее часто используемых тегов."
+
+#: includes/nasa-login-register-form.php:110
+msgid "A password will be sent to your email address."
+msgstr "Пароль будет отправлен на ваш адрес электронной почты."
+
+#. Description of the theme
+msgid ""
+"A Premium and Responsive WordPress theme, designed for E-Commerce websites"
+msgstr ""
+"Премиум и отзывчивая тема WordPress, разработанная для сайтов электронной "
+"коммерции"
+
+#: cores/nasa-shop-ajax.php:276
+msgid "A user could not be found with this email address."
+msgstr "Пользователь не может быть найден с этим адресом электронной почты."
+
+#: includes/nasa-mobile-account.php:3
+msgid "Account"
+msgstr "Учетная запись"
+
+#: admin/classes/class-tgm-plugin-activation.php:2757
+msgid "Activate"
+msgstr "Активировать"
+
+#. %2$s: plugin name in screen reader markup
+#: admin/classes/class-tgm-plugin-activation.php:2647
+#, php-format
+msgid "Activate %2$s"
+msgstr "Активировать %2$s"
+
+#: admin/classes/class-tgm-plugin-activation.php:2371
+msgid "Active"
+msgstr "Активный"
+
+#: cores/nasa-theme-options.php:80
+msgid "Add Icon NasaTheme (Using for Section of Tabs)"
+msgstr ""
+
+#: widgets/wg-nasa-product-categories.php:158
+msgid "Add icons for categories."
+msgstr ""
+
+#: admin/elements/nasa_01_general_heading.php:53
+msgid "Add more width site (px)"
+msgstr ""
+
+#: admin/classes/class.options_machine.php:443
+msgid "Add New Slide"
+msgstr ""
+
+#: cores/nasa-woo-functions.php:1690
+msgid "Add to Compare"
+msgstr "Добавить к сравнению"
+
+#: admin/elements/nasa_02_logo_icon_heading.php:62
+msgid ""
+"Add your custom Favicon image. 16x16px .ico or .png required. (Recommend *."
+"ico)"
+msgstr ""
+
+#: woocommerce/content-widget-product.php:128
+msgid "Added"
+msgstr "Добавлено"
+
+#: widgets/wg-nasa-product-filter-price-list.php:137
+#: widgets/wg-nasa-product-filter-price-list.php:138
+#: widgets/wg-nasa-tag-cloud.php:144
+msgid "All"
+msgstr "Все"
+
+#: admin/classes/class-tgm-plugin-activation.php:3551
+msgid "All installations and activations have been completed."
+msgstr "Все установки и активации были завершены."
+
+#: admin/classes/class-tgm-plugin-activation.php:3559
+msgid "All installations have been completed."
+msgstr "Все установки были завершены."
+
+#. 1: dashboard link.
+#: admin/classes/class-tgm-plugin-activation.php:383
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Все плагины установлены и успешно активированы. %1$s"
+
+#: woocommerce/loop/pagination.php:58
+msgid "ALL PRODUCTS LOADED !"
+msgstr "БОЛЬШЕ НЕТ. ИЗМЕНИТЕ ЗАПРОС"
+
+#: includes/nasa-login-register-form.php:125
+msgid "Already got an account? "
+msgstr "Уже есть аккаунт?"
+
+#: admin/elements/nasa_07_1_product_global_heading.php:215
+msgid "Always show all pages"
+msgstr "Всегда показывать все страницы"
+
+#. 1: plugin name, 2: error message.
+#: admin/classes/class-tgm-plugin-activation.php:3542
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "Произошла ошибка при установке %1$s: <strong>%2$s</strong>."
+
+#: widgets/wg-nasa-product-filter-variations.php:152
+msgid "AND"
+msgstr "и"
+
+#: woocommerce/cart/cart.php:148
+msgid "Apply Coupon"
+msgstr "Применить купон"
+
+#: admin/elements/nasa_05_type_heading.php:115
+msgid "Arabic"
+msgstr "Арабский"
+
+#: admin/elements/nasa_07_2_product_page_heading.php:15
+msgid "Archive Products Page"
+msgstr "Страница архивных товаров"
+
+#: admin/classes/class.options_machine.php:284
+msgid "Arial"
+msgstr "Arial"
+
+#: admin/classes/class-tgm-plugin-activation.php:2520
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: archive.php:84
+msgid "Asides"
+msgstr "Asides"
+
+#: widgets/wg-nasa-product-filter-variations.php:143
+msgid "Attribute"
+msgstr ""
+
+#: archive.php:71
+#, php-format
+msgid "Author Archives: %s"
+msgstr ""
+
+#: woocommerce/content-product.php:61
+msgid "AVAILABILITY: "
+msgstr "ДОСТУПНОСТЬ:"
+
+#: woocommerce/cart/cart.php:85
+msgid "Available on backorder"
+msgstr "Доступно по предзаказу"
+
+#: admin/classes/class-tgm-plugin-activation.php:2545
+msgid "Available version:"
+msgstr "Доступная версия:"
+
+#: woocommerce/loop/orderby.php:42
+msgid "Average rating"
+msgstr "Средний рейтинг"
+
+#: admin/elements/nasa_11_promotion_news_heading.php:95
+#: admin/elements/nasa_11_promotion_news_heading.php:96
+msgid "Background"
+msgstr "Фон"
+
+#: admin/elements/nasa_03_header_footer_heading.php:214
+msgid "Background color Header"
+msgstr "Цвет фона Заголовок"
+
+#: admin/elements/nasa_03_header_footer_heading.php:215
+msgid "Background Color header."
+msgstr "Цвет фона Заголовок"
+
+#: admin/elements/nasa_12_backup_options_heading.php:15
+msgid "Backup and Import"
+msgstr "Резервное копирование и импорт"
+
+#: admin/elements/nasa_12_backup_options_heading.php:21
+msgid "Backup and Restore Options"
+msgstr "Параметры резервного копирования и восстановления"
+
+#: admin/classes/class.options_machine.php:556
+msgid "Backup Options"
+msgstr "Параметры резервного копирования"
+
+#: admin/elements/nasa_05_type_heading.php:80
+msgid "Banner font"
+msgstr ""
+
+#: admin/classes/class-tgm-plugin-activation.php:371
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: admin/classes/class-tgm-plugin-activation.php:365
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: admin/classes/class-tgm-plugin-activation.php:368
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: admin/elements/nasa_03_header_footer_heading.php:116
+msgid "Block Header transparent"
+msgstr ""
+
+#: admin/elements/nasa_08_blog_heading.php:14
+msgid "Blog"
+msgstr "Блог"
+
+#: admin/elements/nasa_08_blog_heading.php:33
+msgid "Blog layout"
+msgstr ""
+
+#: options/nasa-options.php:363
+msgid "Blog Sidebar"
+msgstr ""
+
+#: admin/elements/nasa_08_blog_heading.php:46
+msgid "Blog style"
+msgstr ""
+
+#: admin/classes/class.options_machine.php:307
+msgid "Bold"
+msgstr ""
+
+#: admin/classes/class.options_machine.php:308
+msgid "Bold Italic"
+msgstr ""
+
+#: image.php:94
+msgid "Both comments and trackbacks are currently closed."
+msgstr ""
+
+#: admin/elements/nasa_07_1_product_global_heading.php:29
+msgid "Bottom to top"
+msgstr ""
+
+#: admin/elements/nasa_01_general_heading.php:47
+msgid "Boxed"
+msgstr ""
+
+#: admin/elements/nasa_06_breadcrumb_heading.php:15
+msgid "Breadcrumb"
+msgstr ""
+
+#: admin/elements/nasa_06_breadcrumb_heading.php:61
+msgid "Breadcrumb background color"
+msgstr ""
+
+#: admin/elements/nasa_06_breadcrumb_heading.php:62
+msgid "Breadcrumb background color."
+msgstr ""
+
+#: admin/elements/nasa_06_breadcrumb_heading.php:43
+msgid "Breadcrumb background image"
+msgstr ""
+
+#: admin/elements/nasa_06_breadcrumb_heading.php:44
+msgid "Breadcrumb background image."
+msgstr ""
+
+#: admin/elements/nasa_06_breadcrumb_heading.php:52
+msgid "Breadcrumb background parallax"
+msgstr ""
+
+#: admin/elements/nasa_06_breadcrumb_heading.php:77
+msgid "Breadcrumb Text Align"
+msgstr ""
+
+#: admin/elements/nasa_06_breadcrumb_heading.php:69
+msgid "Breadcrumb Text Color"
+msgstr ""
+
+#: admin/elements/nasa_06_breadcrumb_heading.php:30
+msgid "Breadcrumb type"
+msgstr ""
+
+#: cores/nasa-woo-functions.php:1206
+msgid "BROWSE"
+msgstr ""
+
+#: cores/nasa-theme-functions.php:284
+msgid "Browse Categories"
+msgstr ""
+
+#: woocommerce/single-product/tabs/tabs.php:57
+msgid "Bundle product"
+msgstr ""
+
+#: includes/nasa-combo-products-in-detail.php:16
+#: includes/nasa-combo-products.php:14
+msgid "Bundle product for"
+msgstr ""
+
+#: includes/nasa-combo-products-quickview.php:14
+msgid "Bundle product for "
+msgstr ""
+
+#: admin/elements/nasa_04_style_color_heading.php:89
+msgid "Buttons Background Color"
+msgstr ""
+
+#: admin/elements/nasa_04_style_color_heading.php:97
+msgid "Buttons Background Color Hover"
+msgstr ""
+
+#: admin/elements/nasa_04_style_color_heading.php:146
+msgid "Buttons border"
+msgstr ""
+
+#: admin/elements/nasa_04_style_color_heading.php:105
+msgid "Buttons Border Color"
+msgstr ""
+
+#: admin/elements/nasa_04_style_color_heading.php:113
+msgid "Buttons Border Color Hover"
+msgstr ""
+
+#: admin/elements/nasa_04_style_color_heading.php:136
+msgid "Buttons radius"
+msgstr ""
+
+#: admin/elements/nasa_04_style_color_heading.php:83
+#: admin/elements/nasa_04_style_color_heading.php:84
+msgid "Buttons Style and Color"
+msgstr ""
+
+#: admin/elements/nasa_04_style_color_heading.php:121
+msgid "Buttons Text Color"
+msgstr ""
+
+#: admin/elements/nasa_04_style_color_heading.php:129
+msgid "Buttons Text Color Hover"
+msgstr ""
+
+#: cores/nasa-woo-functions.php:331
+msgid "BUY NOW"
+msgstr "КУПИТЬ СЕЙЧАС"
+
+#: admin/elements/nasa_07_3_product_detail_heading.php:96
+msgid "Buy Now"
+msgstr "Купить сейчас"
+
+#: admin/elements/nasa_07_3_product_detail_heading.php:104
+msgid "Buy Now Background Color"
+msgstr ""
+
+#: admin/elements/nasa_07_3_product_detail_heading.php:112
+msgid "Buy Now Background Color Hover"
+msgstr ""
+
+#: admin/elements/nasa_07_3_product_detail_heading.php:98
+msgid "Buy Now product"
+msgstr ""
+
+#: admin/elements/nasa_07_3_product_detail_heading.php:120
+msgid "Buy Now Shadow Color"
+msgstr ""
+
+#: cores/nasa-woo-functions.php:644
+msgid "Cart"
+msgstr "Корзина"
+
+#: woocommerce/cart/cart-totals.php:19
+msgid "Cart Totals"
+msgstr "ИТОГО"
+
+#: admin/elements/nasa_07_1_product_global_heading.php:35
+msgid "Catalog Mode"
+msgstr ""
+
+#: cores/nasa-woo-functions.php:1192
+msgid "CATEGORIES"
+msgstr "КАТЕГОРИИ"
+
+#: cores/nasa-theme-footers.php:419 cores/nasa-woo-functions.php:1112
+msgid "Categories"
+msgstr "Категории"
+
+#: archive.php:65
+#, php-format
+msgid "Category Archives: %s"
+msgstr ""
+
+#: widgets/wg-nasa-product-categories.php:45
+msgid "Category Order"
+msgstr ""
+
+#: admin/elements/nasa_11_promotion_news_heading.php:51
+msgid "Category post"
+msgstr ""
+
+#: admin/elements/nasa_07_2_product_page_heading.php:191
+msgid "Category top content"
+msgstr ""
+
+#: admin/elements/nasa_06_breadcrumb_heading.php:83
+#: admin/elements/nasa_07_3_product_detail_heading.php:178
+msgid "Center"
+msgstr ""
+
+#: admin/elements/nasa_04_style_color_heading.php:90
+msgid "Change background color for buttons."
+msgstr ""
+
+#: admin/elements/nasa_04_style_color_heading.php:98
+msgid "Change background color hover for buttons. Default is primary color"
+msgstr ""
+
+#: admin/elements/nasa_03_header_footer_heading.php:242
+msgid "Change Background Color of Main Menu."
+msgstr ""
+
+#: admin/elements/nasa_08_blog_heading.php:34
+msgid "Change blog layout"
+msgstr ""
+
+#: admin/elements/nasa_08_blog_heading.php:47
+msgid "Change blog style"
+msgstr ""
+
+#: admin/elements/nasa_04_style_color_heading.php:106
+msgid "Change border color for buttons."
+msgstr ""
+
+#: admin/elements/nasa_04_style_color_heading.php:114
+msgid "Change border color hover for buttons."
+msgstr ""
+
+#: admin/elements/nasa_06_breadcrumb_heading.php:70
+msgid "Change Breadcrumb Text Color"
+msgstr ""
+
+#: admin/elements/nasa_04_style_color_heading.php:147
+msgid "Change Buttons Border. (px)"
+msgstr ""
+
+#: admin/elements/nasa_04_style_color_heading.php:137
+msgid "Change Buttons Radius. (px)"
+msgstr ""
+
+#: admin/elements/nasa_07_3_product_detail_heading.php:113
+msgid "Change Buy Now Background Color Hover."
+msgstr ""
+
+#: admin/elements/nasa_07_3_product_detail_heading.php:105
+msgid "Change Buy Now Background Color."
+msgstr ""
+
+#: admin/elements/nasa_07_3_product_detail_heading.php:121
+msgid "Change Buy Now Shadow Color."
+msgstr ""
+
+#: admin/elements/nasa_07_4_product_compare_heading.php:40
+msgid "Change max number display compare products"
+msgstr ""
+
+#: admin/elements/nasa_04_style_color_heading.php:28
+msgid ""
+"Change primary color. Used for primary buttons, link hover, background, etc."
+msgstr ""
+
+#: admin/elements/nasa_07_2_product_page_heading.php:72
+msgid "Change products number display per row for the Shop page"
+msgstr ""
+
+#: admin/elements/nasa_07_2_product_page_heading.php:109
+msgid "Change products per page."
+msgstr ""
+
+#: admin/elements/nasa_04_style_color_heading.php:157
+msgid "Change Radius Inputs. (px)"
+msgstr ""
+
+#: admin/elements/nasa_04_style_color_heading.php:36
+msgid "Change secondary color. Used for sale bubble."
+msgstr ""
+
+#: admin/elements/nasa_08_blog_heading.php:21
+msgid "Change Single blog layout"
+msgstr ""
+
+#: admin/elements/nasa_04_style_color_heading.php:122
+msgid "Change text color for buttons. Default is primary color"
+msgstr ""
+
+#: admin/elements/nasa_04_style_color_heading.php:130
+msgid "Change text color hover for buttons."
+msgstr ""
+
+#: admin/elements/nasa_03_header_footer_heading.php:251
+msgid "Change Text Color of Main Menu."
+msgstr ""
+
+#: admin/elements/nasa_04_style_color_heading.php:60
+msgid "Change the deal label color. Used for product deal."
+msgstr ""
+
+#: admin/elements/nasa_04_style_color_heading.php:52
+msgid "Change the hot label color. Used for product hot."
+msgstr ""
+
+#: admin/elements/nasa_04_style_color_heading.php:76
+msgid "Change the Price color. Used for product."
+msgstr ""
+
+#: admin/elements/nasa_04_style_color_heading.php:68
+msgid "Change the sale label color. Used for product sale."
+msgstr ""
+
+#: admin/elements/nasa_04_style_color_heading.php:44
+msgid "Change the success color. Used for global success messages."
+msgstr ""
+
+#: admin/elements/nasa_05_type_heading.php:108
+msgid "Character Sub-sets"
+msgstr ""
+
+#: admin/elements/nasa_11_promotion_news_heading.php:22
+msgid "Checked is Enable"
+msgstr ""
+
+#: includes/nasa-sidebar-cart.php:76
+msgid "CHECKOUT"
+msgstr "ОФОРМИТЬ ЗАКАЗ"
+
+#: page-checkout.php:28 page-checkout.php:53 page-checkout.php:73
+msgid "Checkout Details"
+msgstr "Детали заказа"
+
+#: page-shopping-cart.php:28 page-shopping-cart.php:53
+#: page-shopping-cart.php:73
+msgid "Checkout details"
+msgstr "Детали заказа"
+
+#: page-checkout.php:29 page-checkout.php:54
+msgid "Checkout Your Items List"
+msgstr "Проверьте список покупок"
+
+#: page-shopping-cart.php:29 page-shopping-cart.php:54
+msgid "Checkout your items list"
+msgstr "Проверьте список покупок"
+
+#: admin/elements/nasa_06_breadcrumb_heading.php:31
+msgid "Choose breadcrumb type."
+msgstr ""
+
+#: admin/elements/nasa_05_type_heading.php:109
+msgid "Choose the character sets you want."
+msgstr ""
+
+#: cores/nasa-theme-options.php:34
+#: admin/elements/nasa_07_3_product_detail_heading.php:166
+msgid "Classic 2D"
+msgstr ""
+
+#: cores/nasa-theme-options.php:33
+msgid "Classic 2D - Has BG color"
+msgstr ""
+
+#: cores/nasa-theme-options.php:32
+#: admin/elements/nasa_07_3_product_detail_heading.php:165
+msgid "Classic 2D - No border"
+msgstr ""
+
+#: cores/nasa-theme-options.php:35
+#: admin/elements/nasa_07_3_product_detail_heading.php:167
+msgid "Classic 3D"
+msgstr ""
+
+#: admin/elements/nasa_07_3_product_detail_heading.php:27
+msgid "Classic layout (Sidebar - columns)"
+msgstr ""
+
+#: includes/nasa-mini-compare.php:65
+msgid "Clear All"
+msgstr ""
+
+#: admin/elements/nasa_01_general_heading.php:23
+msgid ""
+"Click for import. Please ensure our plugins are activated before content is "
+"imported."
+msgstr ""
+
+#: woocommerce/cart/cart.php:143
+msgid "Click here to enter your code"
+msgstr "Нажмите сюда, чтобы ввести"
+
+#: widgets/wg-nasa-product-brands.php:148
+#: widgets/wg-nasa-product-categories.php:173
+msgid "Click select icon for "
+msgstr ""
+
+#: cores/nasa-theme-footers.php:240 cores/nasa-theme-footers.php:273
+#: cores/nasa-theme-footers.php:273 cores/nasa-theme-footers.php:307
+#: cores/nasa-theme-footers.php:307 cores/nasa-theme-footers.php:335
+#: cores/nasa-theme-footers.php:362 cores/nasa-theme-footers.php:362
+#: includes/nasa-blog-promotion.php:19
+msgid "Close"
+msgstr "Закрыть"
+
+#: cores/nasa-theme-footers.php:475
+msgid "Close (Esc)"
+msgstr "Закрыть (Esc)"
+
+#: cores/nasa-theme-footers.php:425 headers/header-structure-1.php:52
+#: headers/header-structure-2.php:70 headers/header-structure-3.php:68
+#: headers/header-structure-4.php:64
+msgid "Close categories filter"
+msgstr ""
+
+#: searchform.php:28
+msgid "Close search"
+msgstr "Закрыть поиск"
+
+#: admin/elements/nasa_08_blog_heading.php:68
+msgid "Columns in desktop"
+msgstr ""
+
+#: admin/elements/nasa_08_blog_heading.php:81
+msgid "Columns in mobile"
+msgstr ""
+
+#: admin/elements/nasa_08_blog_heading.php:92
+msgid "Columns in Tablet"
+msgstr ""
+
+#: admin/elements/nasa_08_blog_heading.php:199
+msgid "Columns Relate in desktop"
+msgstr ""
+
+#: admin/elements/nasa_08_blog_heading.php:211
+msgid "Columns Relate in mobile"
+msgstr ""
+
+#: admin/elements/nasa_08_blog_heading.php:222
+msgid "Columns Relate in Tablet"
+msgstr ""
+
+#: admin/elements/nasa_07_3_product_detail_heading.php:192
+msgid "Columns Relate | Upsell Products"
+msgstr ""
+
+#: admin/elements/nasa_07_3_product_detail_heading.php:204
+msgid "Columns Relate | Upsell Products for Mobile"
+msgstr ""
+
+#: admin/elements/nasa_07_3_product_detail_heading.php:215
+msgid "Columns Relate | Upsell Products for Tablet"
+msgstr ""
+
+#: comments.php:32
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:15
+msgid "Comments"
+msgstr "Комментарии"
+
+#: image.php:90
+#, php-format
+msgid ""
+"Comments are closed, but you can leave a trackback: <a class=\"trackback-"
+"link\" href=\"%s\" title=\"Trackback URL for your post\" rel=\"trackback\">"
+"Trackback URL</a>."
+msgstr ""
+
+#: comments.php:44
+msgid "Comments are closed."
+msgstr "Комментарии закрыты."
+
+#: cores/nasa-woo-functions.php:1025 cores/nasa-woo-functions.php:1664
+#: cores/nasa-woo-functions.php:1664 cores/nasa-woo-functions.php:1666
+#: cores/nasa-woo-functions.php:1688 cores/nasa-woo-functions.php:1688
+msgid "Compare"
+msgstr "Сравнить"
+
+#: cores/nasa-woo-functions.php:1052
+msgid "Compare "
+msgstr "Сравнить"
+
+#: includes/nasa-mini-compare.php:54
+msgid "Compare Product"
+msgstr ""
+
+#: includes/nasa-mini-compare.php:8
+msgid "Compare Products"
+msgstr "Сравнение товаров"
+
+#: cores/nasa-custom-wc-ajax.php:644
+msgid "Compare products were empty !"
+msgstr ""
+
+#: admin/index.php:47
+msgid "Contact Form 7"
+msgstr ""
+
+#: admin/elements/nasa_09_promo_popup_heading.php:69
+msgid "Content Width"
+msgstr ""
+
+#: admin/elements/nasa_09_promo_popup_heading.php:70
+msgid "Content Width."
+msgstr ""
+
+#: includes/nasa-blog-grid.php:69 includes/nasa-blog-list.php:61
+#: includes/nasa-blog-masonry-isotope.php:71 includes/nasa-blog-standard.php:52
+msgid "CONTINUE READING  ➞"
+msgstr ""
+
+#: woocommerce/cart/cart.php:145
+msgid "Coupon"
+msgstr "Купон"
+
+#: includes/nasa-login-register-form.php:69
+msgid "Create an account"
+msgstr "Завести аккаунт"
+
+#: admin/elements/nasa_05_type_heading.php:31
+msgid "Custom font"
+msgstr ""
+
+#: admin/elements/nasa_05_type_heading.php:136
+msgid "Custom font use in site."
+msgstr ""
+
+#: admin/elements/nasa_05_type_heading.php:116
+msgid "Cyrillic"
+msgstr ""
+
+#: admin/elements/nasa_05_type_heading.php:117
+msgid "Cyrillic Extended"
+msgstr ""
+
+#: archive.php:75
+#, php-format
+msgid "Daily Archives: %s"
+msgstr ""
+
+#: admin/elements/nasa_07_1_product_global_heading.php:136
+#: admin/elements/nasa_07_1_product_global_heading.php:148
+#: admin/elements/nasa_07_1_product_global_heading.php:261
+#: admin/elements/nasa_07_1_product_global_heading.php:273
+msgid "Dark"
+msgstr ""
+
+#: admin/classes/class.options_machine.php:345
+msgid "Dashed"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:37
+msgid "Date:"
+msgstr "Дата:"
+
+#: options/nasa-options.php:313
+msgid "Day"
+msgstr "День"
+
+#: options/nasa-options.php:306
+msgid "Days"
+msgstr "Дни"
+
+#: admin/elements/nasa_04_style_color_heading.php:59
+msgid "Deal label Color"
+msgstr ""
+
+#: admin/elements/nasa_05_type_heading.php:30
+msgid "Default font"
+msgstr ""
+
+#: woocommerce/loop/orderby.php:40
+msgid "Default Sorting"
+msgstr ""
+
+#: admin/elements/nasa_03_header_footer_heading.php:142
+msgid "Default Top Bar Show"
+msgstr ""
+
+#: admin/elements/nasa_01_general_heading.php:109
+msgid "Delay overlay items"
+msgstr ""
+
+#: admin/elements/nasa_09_promo_popup_heading.php:98
+msgid "Delay time (seconds)"
+msgstr ""
+
+#: admin/elements/nasa_09_promo_popup_heading.php:97
+msgid "Delay time to show"
+msgstr ""
+
+#: admin/elements/nasa_01_general_heading.php:33
+msgid "Demo data imported"
+msgstr ""
+
+#: admin/front-end/options.php:31
+msgid ""
+"Demo data successfully imported. Please Refress your site and Click Save All "
+"Changes NasaTheme options."
+msgstr ""
+
+#: admin/elements/nasa_01_general_heading.php:34
+msgid ""
+"Demo data was imported. If you want import demo data again, You should need "
+"reset data of your site."
+msgstr ""
+
+#: admin/classes/class.options_machine.php:864
+msgid "Description (optional)"
+msgstr ""
+
+#: admin/elements/nasa_07_1_product_global_heading.php:222
+msgid "Disable"
+msgstr ""
+
+#: admin/elements/nasa_07_1_product_global_heading.php:194
+msgid "Disable ajax archive product"
+msgstr ""
+
+#: admin/elements/nasa_07_1_product_global_heading.php:192
+msgid "Disable ajax Shop"
+msgstr ""
+
+#: admin/elements/nasa_07_1_product_global_heading.php:200
+msgid "Disable ajax Shop Progress bar loading"
+msgstr ""
+
+#: admin/elements/nasa_07_1_product_global_heading.php:202
+msgid "Disable ajax Shop Progress bar loading."
+msgstr ""
+
+#: admin/elements/nasa_07_1_product_global_heading.php:221
+msgid ""
+"Disable top level of categories follow current category archive (Use for "
+"Multi stores)"
+msgstr ""
+
+#: admin/elements/nasa_01_general_heading.php:101
+msgid "Disable Transition Loading"
+msgstr ""
+
+#: admin/elements/nasa_01_general_heading.php:102
+msgid "Disable transition loading for all page"
+msgstr ""
+
+#: admin/elements/nasa_07_1_product_global_heading.php:237
+#: admin/elements/nasa_07_1_product_global_heading.php:239
+msgid "Disable Viewed products"
+msgstr ""
+
+#: admin/elements/nasa_07_1_product_global_heading.php:37
+msgid "Disable."
+msgstr ""
+
+#: admin/elements/nasa_07_1_product_global_heading.php:216
+msgid "Disabled"
+msgstr ""
+
+#: admin/classes/class-tgm-plugin-activation.php:384
+msgid "Dismiss this notice"
+msgstr ""
+
+#: widgets/wg-nasa-product-filter-price-list.php:18
+msgid "Display a list of prices to filter products."
+msgstr ""
+
+#: widgets/wg-nasa-reset-filter.php:26
+msgid "Display button reset filter."
+msgstr ""
+
+#: admin/elements/nasa_11_promotion_news_heading.php:79
+#: admin/elements/nasa_11_promotion_news_heading.php:80
+msgid "Display full width"
+msgstr ""
+
+#: widgets/wg-nasa-product-brands.php:33
+msgid "Display product brands with Accordion."
+msgstr ""
+
+#: widgets/wg-nasa-product-categories.php:31
+msgid "Display product categories with Accordion."
+msgstr ""
+
+#: admin/elements/nasa_10_portfolio_heading.php:64
+msgid "Display project category"
+msgstr ""
+
+#: admin/elements/nasa_07_1_product_global_heading.php:208
+msgid "Display top icon filter categories"
+msgstr ""
+
+#: admin/elements/nasa_07_1_product_global_heading.php:209
+msgid "Display top icon filter categories."
+msgstr ""
+
+#: includes/nasa-promo-popup.php:46
+msgid "Don't show this popup again"
+msgstr ""
+
+#: admin/classes/class.options_machine.php:346
+msgid "Dotted"
+msgstr ""
+
+#: admin/elements/nasa_07_3_product_detail_heading.php:39
+msgid "Double images"
+msgstr ""
+
+#: admin/elements/nasa_07_1_product_global_heading.php:122
+msgid "Double Thumbnails"
+msgstr ""
+
+#: image.php:27 image.php:96 cores/nasa-theme-functions.php:681
+#: cores/nasa-theme-functions.php:700
+#: admin/classes/class.options_machine.php:834
+msgid "Edit"
+msgstr ""
+
+#: admin/elements/nasa_01_general_heading.php:117
+msgid "Effect before load site"
+msgstr ""
+
+#: widgets/wg-nasa-product-filter-variations.php:163
+msgid "Effect for show more and show less"
+msgstr ""
+
+#. Name of the theme
+msgid "Elessi Theme"
+msgstr ""
+
+#: includes/nasa-login-register-form.php:95
+msgid "Email address"
+msgstr ""
+
+#: admin/elements/nasa_07_3_product_detail_heading.php:228
+#: admin/elements/nasa_07_3_product_detail_heading.php:230
+msgid "Enable AJAX add to cart button on Detail And Quickview"
+msgstr ""
+
+#: admin/elements/nasa_06_breadcrumb_heading.php:53
+msgid "Enable breadcrumb background parallax"
+msgstr ""
+
+#: widgets/wg-nasa-product-filter-price.php:39
+msgid "Enable Button filter"
+msgstr ""
+
+#: admin/elements/nasa_07_2_product_page_heading.php:183
+#: admin/elements/nasa_07_2_product_page_heading.php:185
+msgid "Enable Category top content"
+msgstr ""
+
+#: admin/elements/nasa_07_2_product_page_heading.php:135
+msgid "Enable change view as"
+msgstr ""
+
+#: admin/elements/nasa_07_2_product_page_heading.php:137
+msgid "Enable change view grid or list."
+msgstr ""
+
+#: admin/elements/nasa_07_3_product_detail_heading.php:90
+msgid "Enable deal on single product page"
+msgstr ""
+
+#: admin/elements/nasa_07_3_product_detail_heading.php:88
+msgid "Enable Deal Time"
+msgstr ""
+
+#: admin/elements/nasa_01_general_heading.php:118
+msgid "Enable Effect before load site"
+msgstr ""
+
+#: admin/elements/nasa_07_3_product_detail_heading.php:60
+msgid "Enable Hover product Zoom"
+msgstr ""
+
+#: admin/elements/nasa_07_1_product_global_heading.php:175
+msgid "Enable live search ajax"
+msgstr ""
+
+#: admin/elements/nasa_07_1_product_global_heading.php:174
+msgid "Enable live search products"
+msgstr ""
+
+#: admin/elements/nasa_01_general_heading.php:94
+msgid "Enable Login or Register by Ajax form"
+msgstr ""
+
+#: admin/elements/nasa_07_4_product_compare_heading.php:25
+msgid "Enable Nasa compare products"
+msgstr ""
+
+#: admin/elements/nasa_07_4_product_compare_heading.php:23
+msgid "Enable Nasa compare products Extends Yith Plugin Compare"
+msgstr ""
+
+#: admin/elements/nasa_08_blog_heading.php:114
+msgid "Enable parallax effect on featured images"
+msgstr ""
+
+#: admin/elements/nasa_10_portfolio_heading.php:26
+msgid "Enable Portfolio"
+msgstr ""
+
+#: admin/elements/nasa_10_portfolio_heading.php:27
+msgid "Enable Portfolio - Only use with plugin Nasa Core."
+msgstr ""
+
+#: admin/elements/nasa_07_3_product_detail_heading.php:62
+msgid "Enable product hover zoom on product detail page"
+msgstr ""
+
+#: admin/elements/nasa_09_promo_popup_heading.php:23
+#: admin/elements/nasa_09_promo_popup_heading.php:24
+msgid "Enable promo popup"
+msgstr ""
+
+#: admin/elements/nasa_07_1_product_global_heading.php:164
+msgid "Enable Promotion Gifts effect featured icon"
+msgstr ""
+
+#: admin/elements/nasa_07_1_product_global_heading.php:165
+msgid "Enable Promotion Gifts effect featured icon."
+msgstr ""
+
+#: admin/elements/nasa_07_1_product_global_heading.php:155
+msgid "Enable Promotion Gifts featured icon"
+msgstr ""
+
+#: admin/elements/nasa_07_1_product_global_heading.php:156
+msgid "Enable Promotion Gifts featured icon products"
+msgstr ""
+
+#: admin/elements/nasa_07_2_product_page_heading.php:127
+msgid "Enable show info in top"
+msgstr ""
+
+#: admin/elements/nasa_07_2_product_page_heading.php:129
+msgid "Enable show info in top. (don't using for Sidebar Off-canvas)"
+msgstr ""
+
+#: admin/elements/nasa_03_header_footer_heading.php:126
+msgid "Enable sticky"
+msgstr ""
+
+#: admin/elements/nasa_03_header_footer_heading.php:151
+#: admin/elements/nasa_03_header_footer_heading.php:152
+msgid "Enable Switch Languages"
+msgstr ""
+
+#: admin/elements/nasa_07_3_product_detail_heading.php:144
+#: admin/elements/nasa_07_3_product_detail_heading.php:146
+msgid "Enable Technical Specifications"
+msgstr ""
+
+#: admin/elements/nasa_11_promotion_news_heading.php:21
+msgid "Enable Top bar Promotion news"
+msgstr ""
+
+#: cores/nasa-theme-functions.php:841
+msgid "English"
+msgstr ""
+
+#: woocommerce/cart/cart.php:147
+msgid "Enter Coupon"
+msgstr "Введите купон"
+
+#: cores/nasa-shop-ajax.php:252 cores/nasa-shop-ajax.php:259
+#: cores/nasa-shop-ajax.php:266 cores/nasa-shop-ajax.php:276
+msgid "Error"
+msgstr ""
+
+#: cores/nasa-custom-wc-ajax.php:531 cores/nasa-custom-wc-ajax.php:581
+#: cores/nasa-custom-wc-ajax.php:624
+msgid "Error !"
+msgstr ""
+
+#: admin/front-end/options.php:12
+msgid "Error!"
+msgstr ""
+
+#: cores/nasa-shop-ajax.php:221 cores/nasa-shop-ajax.php:327
+msgid "Error."
+msgstr ""
+
+#: admin/front-end/options.php:54
+msgid "Expand"
+msgstr ""
+
+#: admin/classes/class-tgm-plugin-activation.php:2345
+msgid "External Source"
+msgstr ""
+
+#: cores/nasa-theme-options.php:148 cores/nasa-theme-options.php:168
+msgid "Extra class name"
+msgstr ""
+
+#: admin/elements/nasa_07_1_product_global_heading.php:27
+msgid "Fade"
+msgstr ""
+
+#: widgets/wg-nasa-product-filter-variations.php:166
+msgid "Fade In-Out"
+msgstr ""
+
+#: admin/elements/nasa_02_logo_icon_heading.php:61
+msgid "Favicon"
+msgstr ""
+
+#: cores/nasa-widget-functions.php:105 woocommerce/archive-product.php:210
+#: woocommerce/archive-product.php:246
+msgid "Filter"
+msgstr ""
+
+#: widgets/wg-nasa-product-filter-variations.php:136
+msgid "Filter by"
+msgstr ""
+
+#: widgets/wg-nasa-product-filter-price-list.php:24
+#: widgets/wg-nasa-product-filter-price.php:33
+msgid "Filter by price"
+msgstr ""
+
+#: woocommerce/archive-product.php:168
+msgid "Filter by:"
+msgstr ""
+
+#: admin/elements/nasa_07_3_product_detail_heading.php:130
+msgid "Fixed Add To Cart In Bottom"
+msgstr ""
+
+#: admin/elements/nasa_07_1_product_global_heading.php:28
+msgid "Flip Horizontal"
+msgstr ""
+
+#: admin/elements/nasa_07_3_product_detail_heading.php:68
+msgid "Focus main image"
+msgstr ""
+
+#: admin/functions/functions.admin.php:1537
+msgid "Font awesome icons"
+msgstr ""
+
+#: admin/functions/functions.admin.php:1531
+msgid "Font Nasa icons"
+msgstr ""
+
+#: admin/classes/class.options_machine.php:256
+msgid "Font size"
+msgstr ""
+
+#: admin/elements/nasa_05_type_heading.php:24
+msgid "Font use in site"
+msgstr ""
+
+#: admin/elements/nasa_05_type_heading.php:18
+msgid "Fonts"
+msgstr ""
+
+#: admin/elements/nasa_03_header_footer_heading.php:259
+#: admin/elements/nasa_03_header_footer_heading.php:260
+msgid "Footer Option"
+msgstr ""
+
+#: admin/elements/nasa_03_header_footer_heading.php:279
+msgid "Footer Type"
+msgstr ""
+
+#: cores/nasa-theme-functions.php:843
+msgid "French"
+msgstr ""
+
+#: admin/elements/nasa_07_2_product_page_heading.php:162
+msgid "Full"
+msgstr ""
+
+#: admin/elements/nasa_09_promo_popup_heading.php:76
+msgid "Full Width"
+msgstr ""
+
+#: cores/nasa-theme-options.php:94
+msgid "Full width to left"
+msgstr ""
+
+#: cores/nasa-theme-options.php:95
+msgid "Full width to right"
+msgstr ""
+
+#: cores/nasa-theme-options.php:19
+msgid "Fullwidth ?"
+msgstr ""
+
+#: admin/elements/nasa_03_header_footer_heading.php:87
+#: admin/elements/nasa_03_header_footer_heading.php:88
+msgid "Fullwidth main menu"
+msgstr ""
+
+#: admin/elements/nasa_01_general_heading.php:15
+msgid "General"
+msgstr ""
+
+#: admin/classes/class.options_machine.php:287
+msgid "Georgia"
+msgstr ""
+
+#: cores/nasa-theme-functions.php:842
+msgid "German"
+msgstr ""
+
+#: 404.php:18
+msgid "GO TO HOME"
+msgstr "НА ГЛАВНУЮ"
+
+#: admin/elements/nasa_05_type_heading.php:32
+msgid "Google font"
+msgstr ""
+
+#: includes/nasa-login-register-form.php:28
+msgid "Great to have you back !"
+msgstr ""
+
+#: includes/nasa-login-register-form.php:78
+msgid "Great to see you here !"
+msgstr ""
+
+#: admin/elements/nasa_05_type_heading.php:118
+msgid "Greek"
+msgstr ""
+
+#: admin/elements/nasa_05_type_heading.php:119
+msgid "Greek Extended"
+msgstr ""
+
+#: admin/elements/nasa_08_blog_heading.php:53
+msgid "Grid"
+msgstr ""
+
+#: admin/elements/nasa_07_2_product_page_heading.php:149
+msgid "Grid row"
+msgstr ""
+
+#: admin/elements/nasa_07_2_product_page_heading.php:121
+msgid "Grid view default"
+msgstr ""
+
+#: woocommerce/cart/cart.php:143
+msgid "Have a coupon?&nbsp;"
+msgstr "У вас есть купон?&nbsp;"
+
+#: admin/elements/nasa_03_header_footer_heading.php:15
+msgid "Header and Footer"
+msgstr ""
+
+#: admin/elements/nasa_03_header_footer_heading.php:58
+msgid "Header Builder"
+msgstr ""
+
+#: admin/elements/nasa_03_header_footer_heading.php:184
+#: admin/elements/nasa_03_header_footer_heading.php:185
+msgid "Header Elements"
+msgstr ""
+
+#: cores/nasa-theme-options.php:103
+#: admin/elements/nasa_03_header_footer_heading.php:223
+msgid "Header Icons"
+msgstr ""
+
+#: cores/nasa-theme-options.php:106
+msgid "Header icons Cart | Wishlist | Compare"
+msgstr ""
+
+#: admin/elements/nasa_03_header_footer_heading.php:232
+msgid "Header Icons Hover"
+msgstr ""
+
+#: admin/elements/nasa_03_header_footer_heading.php:233
+msgid "Header Icons Hover."
+msgstr ""
+
+#: admin/elements/nasa_03_header_footer_heading.php:224
+msgid "Header Icons."
+msgstr ""
+
+#: admin/elements/nasa_03_header_footer_heading.php:21
+#: admin/elements/nasa_03_header_footer_heading.php:22
+msgid "Header Option"
+msgstr ""
+
+#: cores/nasa-theme-options.php:160
+msgid "Header Search"
+msgstr ""
+
+#: cores/nasa-theme-options.php:163
+msgid "Header search form"
+msgstr ""
+
+#: admin/elements/nasa_03_header_footer_heading.php:27
+msgid "Header type"
+msgstr ""
+
+#: admin/elements/nasa_05_type_heading.php:38
+msgid "Heading fonts (H1, H2)"
+msgstr ""
+
+#: admin/elements/nasa_06_breadcrumb_heading.php:91
+msgid "Height breadcrumb"
+msgstr ""
+
+#: admin/elements/nasa_06_breadcrumb_heading.php:92
+msgid "Height breadcrumb. (px)"
+msgstr ""
+
+#: admin/classes/class.options_machine.php:291
+msgid "Helvetica"
+msgstr ""
+
+#: widgets/wg-nasa-product-filter-price-list.php:51
+msgid "Hide decimal price"
+msgstr ""
+
+#: admin/classes/class-tgm-plugin-activation.php:3550
+#: admin/classes/class-tgm-plugin-activation.php:3558
+msgid "Hide Details"
+msgstr ""
+
+#: widgets/wg-nasa-product-filter-variations.php:172
+msgid "Hide empty"
+msgstr ""
+
+#: widgets/wg-nasa-product-filter-price-list.php:46
+msgid "Hide empty price ranges"
+msgstr ""
+
+#: cores/nasa-theme-options.php:69
+msgid "Hide First Section ?"
+msgstr ""
+
+#: admin/elements/nasa_09_promo_popup_heading.php:31
+msgid "Hide in Mobile"
+msgstr ""
+
+#: admin/elements/nasa_09_promo_popup_heading.php:32
+msgid "Hide in Mobile (Width site <= 640px)"
+msgstr ""
+
+#: admin/elements/nasa_01_general_heading.php:85
+msgid "Hide Login or Register menu"
+msgstr ""
+
+#: admin/elements/nasa_01_general_heading.php:86
+msgid "Hide Login or Register menu."
+msgstr ""
+
+#: admin/elements/nasa_07_1_product_global_heading.php:93
+msgid "Hide quickview icon in loop products"
+msgstr ""
+
+#: admin/elements/nasa_07_1_product_global_heading.php:95
+msgid "Hide quickview icon in loop products."
+msgstr ""
+
+#: cores/nasa-theme-functions.php:130 cores/nasa-theme-functions.php:515
+msgid "Home"
+msgstr "Главная"
+
+#: admin/elements/nasa_04_style_color_heading.php:51
+msgid "Hot label Color"
+msgstr ""
+
+#: options/nasa-options.php:317
+msgid "Hour"
+msgstr "Час"
+
+#: options/nasa-options.php:310
+msgid "Hours"
+msgstr "Часы"
+
+#: admin/elements/nasa_07_1_product_global_heading.php:21
+msgid "Hover product effect"
+msgstr ""
+
+#. URI of the theme
+msgid "http://elessi.nasatheme.com"
+msgstr ""
+
+#. Author URI of the theme
+msgid "http://nasatheme.com"
+msgstr ""
+
+#: cores/nasa-woo-functions.php:307
+#, php-format
+msgid "HURRY! ONLY %s LEFT IN STOCK."
+msgstr ""
+
+#: searchform.php:21 includes/nasa-mobile-product-searchform.php:19
+msgid "I'm shopping for ..."
+msgstr "Я ищу..."
+
+#: admin/elements/nasa_07_1_product_global_heading.php:67
+msgid "Icon Add To Cart in Grid"
+msgstr ""
+
+#: admin/elements/nasa_07_1_product_global_heading.php:43
+msgid "Icon Mini Cart in Header"
+msgstr ""
+
+#: cores/nasa-theme-options.php:150 cores/nasa-theme-options.php:170
+msgid ""
+"If you wish to style particular content element differently, then use this "
+"field to add a class name and then refer to it in your css file."
+msgstr ""
+
+#: admin/classes/class.options_machine.php:841
+msgid "Image URL"
+msgstr ""
+
+#: archive.php:87
+msgid "Images"
+msgstr ""
+
+#: admin/elements/nasa_07_3_product_detail_heading.php:34
+msgid "Images number show"
+msgstr ""
+
+#: admin/elements/nasa_07_3_product_detail_heading.php:47
+msgid "Images style show"
+msgstr ""
+
+#: admin/elements/nasa_01_general_heading.php:22
+#: admin/elements/nasa_01_general_heading.php:27
+msgid "Import Demo Content"
+msgstr ""
+
+#: admin/classes/class.options_machine.php:566
+msgid "Import Options"
+msgstr ""
+
+#: includes/nasa-combo-products-quickview.php:29
+#: woocommerce/content-product.php:20
+msgid "In stock"
+msgstr ""
+
+#: admin/elements/nasa_05_type_heading.php:145
+msgid "Include FontAwesome 5.0.13"
+msgstr ""
+
+#: admin/elements/nasa_05_type_heading.php:146
+msgid "Include FontAwesome 5.0.13 (Note: You only can use Free icons)"
+msgstr ""
+
+#: admin/elements/nasa_07_2_product_page_heading.php:163
+msgid "Infinite - Only using for Ajax"
+msgstr ""
+
+#: admin/elements/nasa_07_2_product_page_heading.php:193
+msgid ""
+"Input anything shortcode or text here. Recommend to use the Static Blocks to "
+"create banner or anything that you want to show the top content in the Shop "
+"page"
+msgstr ""
+
+#: admin/elements/nasa_07_1_product_global_heading.php:248
+msgid "Input number limit product viewed."
+msgstr ""
+
+#: admin/elements/nasa_07_1_product_global_heading.php:185
+msgid "Input number limit products ajax search result."
+msgstr ""
+
+#: admin/elements/nasa_04_style_color_heading.php:156
+msgid "Inputs radius"
+msgstr ""
+
+#: admin/elements/nasa_09_promo_popup_heading.php:82
+msgid "Insert popup background color."
+msgstr ""
+
+#: admin/elements/nasa_09_promo_popup_heading.php:90
+msgid "Insert popup background."
+msgstr ""
+
+#: admin/classes/class-tgm-plugin-activation.php:2748
+msgid "Install"
+msgstr ""
+
+#. %2$s: plugin name in screen reader markup
+#: admin/classes/class-tgm-plugin-activation.php:2636
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: admin/classes/class-tgm-plugin-activation.php:335
+msgid "Install Plugins"
+msgstr ""
+
+#: admin/classes/class-tgm-plugin-activation.php:334
+msgid "Install Required Plugins"
+msgstr ""
+
+#: includes/nasa-sidebar-cart.php:2
+msgid "Install WooCommerce plugin and active, Please!"
+msgstr ""
+
+#: admin/elements/nasa_07_4_product_compare_heading.php:48
+msgid "Install Yith Plugin Compare, Please"
+msgstr ""
+
+#. 1: install status, 2: update status
+#: admin/classes/class-tgm-plugin-activation.php:2390
+#, php-format
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: admin/classes/class-tgm-plugin-activation.php:2369
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: admin/classes/class-tgm-plugin-activation.php:2528
+msgid "Installed version:"
+msgstr ""
+
+#. 1: plugin name, 2: action number 3: total number of actions.
+#: admin/classes/class-tgm-plugin-activation.php:3553
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#. 1: plugin name, 2: action number 3: total number of actions.
+#: admin/classes/class-tgm-plugin-activation.php:3561
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#. %s: plugin name.
+#: admin/classes/class-tgm-plugin-activation.php:337
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: no-results.php:26
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: admin/classes/class.options_machine.php:306
+msgid "Italic"
+msgstr ""
+
+#: cores/nasa-woo-functions.php:650
+#: includes/nasa-combo-products-in-detail.php:17
+#: includes/nasa-combo-products.php:15
+msgid "Items"
+msgstr ""
+
+#: includes/nasa-combo-products-quickview.php:14
+msgid "items"
+msgstr ""
+
+#: admin/classes/class.options_machine.php:555
+msgid "Last Backup : "
+msgstr ""
+
+#: admin/elements/nasa_05_type_heading.php:114
+msgid "Latin"
+msgstr ""
+
+#: admin/elements/nasa_05_type_heading.php:121
+msgid "Latin Extended"
+msgstr ""
+
+#: admin/elements/nasa_07_2_product_page_heading.php:143
+msgid "Layout style"
+msgstr ""
+
+#: admin/elements/nasa_06_breadcrumb_heading.php:84
+#: admin/elements/nasa_07_3_product_detail_heading.php:179
+msgid "Left"
+msgstr ""
+
+#: admin/elements/nasa_07_2_product_page_heading.php:65
+msgid "Left bar"
+msgstr ""
+
+#: admin/elements/nasa_07_3_product_detail_heading.php:81
+msgid "Left Sidebar"
+msgstr ""
+
+#: admin/elements/nasa_08_blog_heading.php:26
+#: admin/elements/nasa_08_blog_heading.php:39
+msgid "Left sidebar"
+msgstr ""
+
+#: admin/elements/nasa_07_2_product_page_heading.php:30
+msgid "Left sidebar Classic"
+msgstr ""
+
+#: admin/elements/nasa_07_2_product_page_heading.php:29
+msgid "Left Sidebar Off-canvas"
+msgstr ""
+
+#: woocommerce/archive-product.php:170
+msgid "Less -"
+msgstr ""
+
+#: includes/nasa-mini-compare.php:66
+msgid "LET'S COMPARE !"
+msgstr "Давайте сравним!"
+
+#: includes/nasa-mini-compare.php:66
+msgid "Let's Compare !"
+msgstr "Давайте сравним!"
+
+#: admin/elements/nasa_07_1_product_global_heading.php:135
+#: admin/elements/nasa_07_1_product_global_heading.php:147
+#: admin/elements/nasa_07_1_product_global_heading.php:260
+#: admin/elements/nasa_07_1_product_global_heading.php:272
+msgid "Light"
+msgstr ""
+
+#: admin/elements/nasa_11_promotion_news_heading.php:61
+msgid "Limit posts"
+msgstr ""
+
+#: admin/elements/nasa_07_2_product_page_heading.php:51
+msgid "Limit widgets to show more. (Input \"All\" will be show all widgets)"
+msgstr ""
+
+#: cores/nasa-woo-functions.php:2064
+msgid "LIMITED"
+msgstr ""
+
+#: admin/classes/class.options_machine.php:861
+msgid "Link URL (optional)"
+msgstr ""
+
+#: archive.php:96
+msgid "Links"
+msgstr ""
+
+#: admin/elements/nasa_08_blog_heading.php:55
+msgid "List"
+msgstr ""
+
+#: admin/elements/nasa_11_promotion_news_heading.php:36
+msgid "List posts"
+msgstr ""
+
+#: admin/elements/nasa_07_2_product_page_heading.php:122
+msgid "List view default"
+msgstr ""
+
+#: admin/elements/nasa_07_2_product_page_heading.php:164
+msgid "Load More - Only using for Ajax"
+msgstr ""
+
+#: portfolio.php:73 woocommerce/loop/pagination.php:61
+msgid "LOAD MORE ..."
+msgstr "ЗАГРУЗИТЬ ЕЩЕ ТОВАРЫ..."
+
+#: page-my-account.php:74
+msgid "Login or Register"
+msgstr "Войдите или зарегистрируйтесь"
+
+#: admin/elements/nasa_01_general_heading.php:93
+msgid "Login or Register by Ajax form"
+msgstr ""
+
+#: cores/nasa-shop-ajax.php:312
+msgid "Login success."
+msgstr "Успешный вход."
+
+#: admin/elements/nasa_02_logo_icon_heading.php:21
+msgid "Logo"
+msgstr ""
+
+#: admin/elements/nasa_02_logo_icon_heading.php:15
+msgid "Logo and Favicon"
+msgstr ""
+
+#: page-my-account.php:28 cores/nasa-woo-functions.php:588
+#: cores/nasa-woo-functions.php:588
+msgid "Logout"
+msgstr "Выйти"
+
+#: admin/elements/nasa_05_type_heading.php:58
+msgid ""
+"Lorem ipsum dosectetur adipisicing elit, sed do.Lorem ipsum dolor sit amet, "
+"consectetur Nulla fringilla purus at leo dignissim congue. Mauris elementum "
+"accumsan leo vel tempor. Sit amet cursus nisl aliquam. Aliquam et elit eu "
+"nunc rhoncus viverra quis at felis.."
+msgstr ""
+
+#: includes/nasa-login-register-form.php:49
+msgid "Lost?"
+msgstr "Потерялись?"
+
+#: functions.php:37
+msgid "Main Menu"
+msgstr "Меню"
+
+#: admin/elements/nasa_03_header_footer_heading.php:241
+msgid "Main Menu Background Color"
+msgstr ""
+
+#: admin/elements/nasa_03_header_footer_heading.php:250
+msgid "Main Menu Text Color"
+msgstr ""
+
+#: admin/elements/nasa_05_type_heading.php:66
+msgid "Main navigation"
+msgstr "Меню"
+
+#: page-checkout.php:20 page-checkout.php:46
+msgid "Manage Your Items List"
+msgstr "Управляйте своим списком товаров"
+
+#: page-shopping-cart.php:20 page-shopping-cart.php:46
+msgid "Manage your items list."
+msgstr "Управляйте своим списком товаров."
+
+#: admin/elements/nasa_07_2_product_page_heading.php:150
+#: admin/elements/nasa_08_blog_heading.php:52
+msgid "Masonry isotope"
+msgstr ""
+
+#: admin/elements/nasa_08_blog_heading.php:62
+#: admin/elements/nasa_08_blog_heading.php:63
+msgid "Masonry isotope - Grid - Blog style"
+msgstr ""
+
+#: admin/elements/nasa_02_logo_icon_heading.php:37
+#: admin/elements/nasa_02_logo_icon_heading.php:38
+msgid "Max height logo"
+msgstr ""
+
+#: admin/elements/nasa_02_logo_icon_heading.php:53
+#: admin/elements/nasa_02_logo_icon_heading.php:54
+msgid "Max height logo in header Sticky"
+msgstr ""
+
+#: admin/elements/nasa_02_logo_icon_heading.php:45
+#: admin/elements/nasa_02_logo_icon_heading.php:46
+msgid "Max height logo in Mobile"
+msgstr ""
+
+#: cores/nasa-widget-functions.php:98
+msgid "Max price"
+msgstr ""
+
+#: widgets/wg-nasa-product-filter-price-list.php:41
+msgid "Max price ranges"
+msgstr ""
+
+#: admin/elements/nasa_07_4_product_compare_heading.php:39
+msgid "Max products compare"
+msgstr ""
+
+#: admin/elements/nasa_08_blog_heading.php:122
+#: admin/elements/nasa_08_blog_heading.php:123
+msgid "Meta Info - Blog style"
+msgstr ""
+
+#: options/nasa-options.php:318
+msgid "Min"
+msgstr ""
+
+#: cores/nasa-widget-functions.php:97
+msgid "Min price"
+msgstr ""
+
+#: admin/classes/class-tgm-plugin-activation.php:2534
+msgid "Minimum required version:"
+msgstr ""
+
+#: options/nasa-options.php:311
+msgid "Mins"
+msgstr ""
+
+#: options/nasa-options.php:314
+msgid "Month"
+msgstr ""
+
+#: archive.php:78
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr ""
+
+#: options/nasa-options.php:307
+msgid "Months"
+msgstr ""
+
+#: woocommerce/archive-product.php:169
+msgid "More +"
+msgstr ""
+
+#: cores/nasa-woo-functions.php:587 woocommerce/checkout/thankyou.php:24
+msgid "My Account"
+msgstr "Личный кабинет"
+
+#: cores/nasa-theme-footers.php:239
+msgid "My Cart"
+msgstr "Моя корзина"
+
+#: admin/elements/nasa_11_promotion_news_heading.php:35
+#: admin/elements/nasa_11_promotion_news_heading.php:42
+msgid "My content custom"
+msgstr ""
+
+#: widgets/wg-nasa-product-categories.php:46
+msgid "Name"
+msgstr ""
+
+#: admin/index.php:19
+msgid "Nasa Core"
+msgstr ""
+
+#: widgets/wg-nasa-recent-posts.php:17
+msgid "Nasa Posts"
+msgstr ""
+
+#: widgets/wg-nasa-product-brands.php:35
+msgid "Nasa Product Brands"
+msgstr ""
+
+#: widgets/wg-nasa-product-categories.php:33
+msgid "Nasa Product Categories"
+msgstr ""
+
+#: widgets/wg-nasa-product-filter-price.php:29
+msgid "Nasa Product Price Filter"
+msgstr ""
+
+#: widgets/wg-nasa-product-filter-price-list.php:20
+msgid "Nasa Product Price Filter (list)"
+msgstr ""
+
+#: widgets/wg-nasa-product-filter-variations.php:30
+msgid "Nasa Product Variations Filter"
+msgstr ""
+
+#: widgets/wg-nasa-reset-filter.php:28
+msgid "Nasa Reset Filters"
+msgstr ""
+
+#: widgets/wg-nasa-tag-cloud.php:22
+msgid "Nasa Tag Cloud"
+msgstr ""
+
+#: widgets/wg-nasa-recent-posts.php:16
+msgid "Nasa widget displays recent posts"
+msgstr ""
+
+#: admin/elements/nasa_05_type_heading.php:44
+msgid "NasaTheme"
+msgstr ""
+
+#: admin/functions/functions.interface.php:56
+msgid "NasaTheme Options"
+msgstr ""
+
+#. Author of the theme
+msgid "NasaTheme team"
+msgstr ""
+
+#: cores/nasa-theme-footers.php:209
+msgid "Navigation"
+msgstr ""
+
+#: includes/nasa-login-register-form.php:67
+msgid "New here? "
+msgstr ""
+
+#: admin/elements/nasa_07_3_product_detail_heading.php:26
+msgid "New layout (sidebar - holder)"
+msgstr ""
+
+#: comments.php:23 comments.php:37
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: woocommerce/loop/orderby.php:43
+msgid "Newness"
+msgstr ""
+
+#: cores/nasa-theme-functions.php:786
+msgid "Newsletter"
+msgstr ""
+
+#: content-single.php:68
+msgid "Next"
+msgstr ""
+
+#: cores/nasa-theme-functions.php:923
+msgid "Next <span class=\"fa fa-caret-right\"></span>"
+msgstr ""
+
+#: image.php:102
+msgid "Next <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: content-single.php:68
+msgid "Next Post"
+msgstr ""
+
+#: cores/nasa-theme-functions.php:918
+msgctxt "Next post link"
+msgid ""
+msgstr ""
+
+#: cores/nasa-theme-options.php:116 cores/nasa-theme-options.php:128
+#: cores/nasa-theme-options.php:140
+msgid "No"
+msgstr ""
+
+#. 1: plugin name.
+#: admin/classes/class-tgm-plugin-activation.php:379
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: admin/classes/class.options_machine.php:548
+msgid "No backups yet."
+msgstr ""
+
+#: admin/elements/nasa_07_1_product_global_heading.php:30
+msgid "No effect"
+msgstr ""
+
+#: single-portfolio.php:26
+msgid "No pages were found!"
+msgstr ""
+
+#: admin/classes/class-tgm-plugin-activation.php:2962
+msgid "No plugins are available to be activated at this time."
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: admin/classes/class-tgm-plugin-activation.php:2829
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: admin/classes/class-tgm-plugin-activation.php:2831
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: admin/classes/class-tgm-plugin-activation.php:2566
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: admin/classes/class-tgm-plugin-activation.php:2936
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: admin/classes/class-tgm-plugin-activation.php:2788
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: admin/classes/class-tgm-plugin-activation.php:2789
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: includes/nasa-view-compare.php:127
+msgid "No product added to compare !"
+msgstr ""
+
+#: cores/nasa-woo-functions.php:2177 widgets/wg-nasa-product-brands.php:247
+#: widgets/wg-nasa-product-categories.php:325
+msgid "No product categories exist."
+msgstr ""
+
+#: cores/nasa-woo-functions.php:683
+msgid "No products in the cart."
+msgstr ""
+
+#: wishlist.php:99
+msgid "No products were added to the wishlist."
+msgstr "Товары не были добавлены в список желаний."
+
+#: woocommerce/archive-product.php:388
+msgid "No products were found matching your selection."
+msgstr ""
+
+#: admin/elements/nasa_07_2_product_page_heading.php:33
+msgid "No Sidebar"
+msgstr ""
+
+#: admin/elements/nasa_07_3_product_detail_heading.php:83
+msgid "No sidebar"
+msgstr ""
+
+#: admin/elements/nasa_08_blog_heading.php:28
+#: admin/elements/nasa_08_blog_heading.php:41
+msgid "No sidebar (Centered)"
+msgstr ""
+
+#: cores/nasa-theme-options.php:93 admin/classes/class.options_machine.php:343
+msgid "None"
+msgstr ""
+
+#: admin/classes/class.options_machine.php:305
+msgid "Normal"
+msgstr ""
+
+#: admin/classes/class-tgm-plugin-activation.php:2365
+msgid "Not Installed"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:87
+#, php-format
+msgid ""
+"Note: Shipping and taxes are estimated%s and will be updated during checkout "
+"based on your billing and shipping information."
+msgstr ""
+
+#: no-results.php:12
+msgid "Nothing Found"
+msgstr "Ничего не найдено"
+
+#: admin/elements/nasa_08_blog_heading.php:192
+msgid "Number for relate blog"
+msgstr ""
+
+#: admin/elements/nasa_07_3_product_detail_heading.php:185
+msgid "Number for relate products"
+msgstr ""
+
+#: widgets/wg-nasa-recent-posts.php:109
+msgid "Number of posts to show:"
+msgstr ""
+
+#: admin/elements/nasa_11_promotion_news_heading.php:62
+msgid "Number posts display"
+msgstr ""
+
+#: admin/elements/nasa_11_promotion_news_heading.php:71
+msgid "Number posts display in slide"
+msgstr ""
+
+#: admin/elements/nasa_07_1_product_global_heading.php:115
+msgid "Number Show Quickview Thumbnail"
+msgstr ""
+
+#: admin/elements/nasa_07_1_product_global_heading.php:116
+msgid "Number show thumbnail."
+msgstr ""
+
+#: admin/classes/class.options_machine.php:647
+msgid "Off"
+msgstr ""
+
+#: admin/classes/class.options_machine.php:644
+msgid "On"
+msgstr ""
+
+#: admin/front-end/options.php:39
+msgid "Online Documentation"
+msgstr ""
+
+#: widgets/wg-nasa-product-categories.php:62
+msgid "Only show children of the current category"
+msgstr ""
+
+#: admin/elements/nasa_07_1_product_global_heading.php:214
+msgid "Only show in shop"
+msgstr ""
+
+#: admin/elements/nasa_07_2_product_page_heading.php:171
+msgid "Only show title product if it is too long."
+msgstr ""
+
+#: cores/nasa-theme-options.php:98
+msgid "Only use for Visual Composer Template."
+msgstr ""
+
+#: 404.php:13
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "404"
+
+#: admin/front-end/options.php:8 admin/front-end/options.php:84
+msgid "Options Reset"
+msgstr ""
+
+#: admin/front-end/options.php:4
+msgid "Options Updated"
+msgstr ""
+
+#: widgets/wg-nasa-product-filter-variations.php:151
+msgid "OR"
+msgstr ""
+
+#: widgets/wg-nasa-product-categories.php:43
+msgid "Order by"
+msgstr ""
+
+#: page-checkout.php:36 page-checkout.php:60 page-checkout.php:77
+#: page-shopping-cart.php:36 page-shopping-cart.php:60
+#: page-shopping-cart.php:77
+msgid "Order Complete"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:33
+msgid "Order Number:"
+msgstr ""
+
+#: cores/nasa-woo-functions.php:2366 woocommerce/single-product/review.php:23
+msgid "out of 5"
+msgstr ""
+
+#: includes/nasa-combo-products-quickview.php:31
+#: woocommerce/content-product.php:20
+msgid "Out of stock"
+msgstr ""
+
+#: admin/elements/nasa_07_4_product_compare_heading.php:31
+msgid "Page view compare products"
+msgstr ""
+
+#: admin/elements/nasa_10_portfolio_heading.php:34
+msgid "Page view Portfolio"
+msgstr ""
+
+#: content-page.php:16 content-single.php:38 image.php:80
+msgid "Pages:"
+msgstr ""
+
+#: admin/elements/nasa_07_2_product_page_heading.php:155
+msgid "Pagination page style"
+msgstr ""
+
+#: admin/classes/class.options_machine.php:290
+msgid "Palatino"
+msgstr ""
+
+#: admin/elements/nasa_08_blog_heading.php:112
+msgid "Parallax effect"
+msgstr ""
+
+#: includes/nasa-login-register-form.php:47
+#: includes/nasa-login-register-form.php:104
+msgid "Password"
+msgstr ""
+
+#: cores/nasa-shop-ajax.php:266
+msgid "Password is required."
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:22
+msgid "Pay"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:46
+msgid "Payment Method:"
+msgstr ""
+
+#: admin/functions/functions.admin.php:1542
+msgid "Pe7s icons"
+msgstr ""
+
+#: cores/nasa-theme-functions.php:681
+msgid "Pingback:"
+msgstr ""
+
+#: cores/nasa-woo-functions.php:1508
+msgid "Play Video"
+msgstr ""
+
+#: admin/classes/class-tgm-plugin-activation.php:386
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: admin/classes/class-tgm-plugin-activation.php:998
+#: admin/classes/class-tgm-plugin-activation.php:1001
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: options/nasa-options.php:266
+msgid ""
+"Please select some product options before adding this product to your cart."
+msgstr ""
+
+#: admin/elements/nasa_07_4_product_compare_heading.php:49
+msgid "Please, Install Yith Plugin Compare!"
+msgstr ""
+
+#: admin/classes/class-tgm-plugin-activation.php:2580
+msgid "Plugin"
+msgstr ""
+
+#: admin/classes/class-tgm-plugin-activation.php:1183
+#: admin/classes/class-tgm-plugin-activation.php:2976
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "и"
+
+#: admin/classes/class-tgm-plugin-activation.php:376
+#: admin/classes/class-tgm-plugin-activation.php:3194
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: admin/classes/class-tgm-plugin-activation.php:3193
+msgid "Plugin activation failed."
+msgstr ""
+
+#. 1: plugin name.
+#: admin/classes/class-tgm-plugin-activation.php:381
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#. 1: number of plugins.
+#: admin/classes/class-tgm-plugin-activation.php:2434
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "Все <span class=\"count\">(%s)</span>"
+msgstr[1] ""
+msgstr[2] "Все <span class=\"count\">(%s)</span>"
+
+#: woocommerce/loop/orderby.php:41
+msgid "Popularity"
+msgstr ""
+
+#: admin/elements/nasa_09_promo_popup_heading.php:89
+msgid "Popup Background"
+msgstr ""
+
+#: admin/elements/nasa_09_promo_popup_heading.php:81
+msgid "Popup Background Color"
+msgstr ""
+
+#: admin/elements/nasa_07_1_product_global_heading.php:107
+msgid "Popup Classical"
+msgstr ""
+
+#: admin/elements/nasa_09_promo_popup_heading.php:53
+msgid "Popup content"
+msgstr ""
+
+#: admin/elements/nasa_09_promo_popup_heading.php:46
+msgid "Popup height"
+msgstr ""
+
+#: admin/elements/nasa_09_promo_popup_heading.php:39
+msgid "Popup width"
+msgstr ""
+
+#. Name of the template
+#: admin/elements/nasa_10_portfolio_heading.php:20
+msgid "Portfolio"
+msgstr ""
+
+#: admin/elements/nasa_10_portfolio_heading.php:78
+#: admin/elements/nasa_10_portfolio_heading.php:79
+msgid "Portfolio Columns"
+msgstr ""
+
+#: admin/elements/nasa_10_portfolio_heading.php:49
+#: admin/elements/nasa_10_portfolio_heading.php:50
+msgid "Portfolio Comments"
+msgstr ""
+
+#: admin/elements/nasa_10_portfolio_heading.php:56
+#: admin/elements/nasa_10_portfolio_heading.php:57
+msgid "Portfolio Count"
+msgstr ""
+
+#: admin/elements/nasa_10_portfolio_heading.php:92
+#: admin/elements/nasa_10_portfolio_heading.php:93
+msgid "portfolio Lightbox"
+msgstr ""
+
+#: admin/elements/nasa_07_2_product_page_heading.php:58
+msgid "Position filter categories"
+msgstr ""
+
+#: admin/elements/nasa_07_2_product_page_heading.php:60
+msgid "Position filter categories."
+msgstr ""
+
+#: admin/elements/nasa_11_promotion_news_heading.php:52
+msgid "Post in category selected"
+msgstr ""
+
+#: includes/nasa-blog-relate.php:104 includes/nasa-blog-relate.php:141
+#: includes/nasa-blog-standard.php:25
+msgid "Posted By "
+msgstr ""
+
+#: includes/nasa-blog-standard.php:27
+msgid "Posted by "
+msgstr ""
+
+#: includes/nasa-blog-grid.php:86 includes/nasa-blog-list.php:75
+#: includes/nasa-blog-masonry-isotope.php:90 includes/nasa-blog-standard.php:69
+#, php-format
+msgid "Posted in %1$s"
+msgstr ""
+
+#: content-single.php:53
+#, php-format
+msgid "Posted in %1$s and tagged %2$s."
+msgstr ""
+
+#: content-single.php:55
+#, php-format
+msgid ""
+"Posted in %1$s. Bookmark the <a href=\"%3$s\" title=\"Permalink to %4$s\" "
+"rel=\"bookmark\">permalink</a>."
+msgstr ""
+
+#: includes/nasa-blog-relate.php:95 includes/nasa-blog-relate.php:132
+msgid "Posts at "
+msgstr ""
+
+#: includes/nasa-blog-standard.php:33
+msgid "Posts in "
+msgstr ""
+
+#: admin/classes/class-tgm-plugin-activation.php:2348
+msgid "Pre-Packaged"
+msgstr ""
+
+#: content-single.php:67
+msgid "Previous"
+msgstr ""
+
+#: content-single.php:67
+msgid "Previous Post"
+msgstr ""
+
+#: cores/nasa-theme-functions.php:917
+msgctxt "Previous post link"
+msgid ""
+msgstr ""
+
+#: cores/nasa-widget-functions.php:11 woocommerce/cart/cart.php:27
+msgid "Price"
+msgstr "Цена"
+
+#: admin/elements/nasa_04_style_color_heading.php:75
+msgid "Price Color"
+msgstr ""
+
+#: admin/elements/nasa_05_type_heading.php:94
+msgid "Price font"
+msgstr ""
+
+#: widgets/wg-nasa-product-filter-price-list.php:33
+msgid "Price range size"
+msgstr ""
+
+#: cores/nasa-widget-functions.php:100
+msgid "Price:"
+msgstr "Цена:"
+
+#: woocommerce/loop/orderby.php:45
+msgid "Price: high to low"
+msgstr ""
+
+#: woocommerce/loop/orderby.php:44
+msgid "Price: low to high"
+msgstr ""
+
+#: admin/elements/nasa_04_style_color_heading.php:27
+msgid "Primary Color"
+msgstr ""
+
+#: includes/nasa-view-compare.php:19 woocommerce/cart/cart.php:26
+msgid "Product"
+msgstr ""
+
+#: cores/nasa-custom-wc-ajax.php:556
+msgid "Product added to compare !"
+msgstr ""
+
+#: cores/nasa-custom-wc-ajax.php:566
+msgid "Product already exists in Compare list !"
+msgstr ""
+
+#: widgets/wg-nasa-product-brands.php:39
+msgid "Product Brands"
+msgstr ""
+
+#: cores/nasa-theme-headers.php:388 cores/nasa-theme-headers.php:391
+#: widgets/wg-nasa-product-categories.php:37
+msgid "Product Categories"
+msgstr ""
+
+#: admin/elements/nasa_07_1_product_global_heading.php:15
+msgid "Product Global Options"
+msgstr ""
+
+#: cores/nasa-custom-wc-ajax.php:609
+msgid "Product not already exists in Compare list !"
+msgstr ""
+
+#: woocommerce/global/quantity-input.php:33
+msgctxt "Product quantity input tooltip"
+msgid "Qty"
+msgstr "Количество"
+
+#: options/nasa-options.php:377
+#: admin/elements/nasa_07_3_product_detail_heading.php:76
+msgid "Product Sidebar"
+msgstr ""
+
+#: includes/nasa-mini-compare.php:8
+msgid "Products"
+msgstr "шт."
+
+#: admin/elements/nasa_07_4_product_compare_heading.php:15
+msgid "Products Compare "
+msgstr "Сравнение товаров"
+
+#: admin/elements/nasa_07_2_product_page_heading.php:107
+msgid "Products Per Page"
+msgstr ""
+
+#: admin/elements/nasa_07_2_product_page_heading.php:71
+msgid "Products Per Row"
+msgstr ""
+
+#: admin/elements/nasa_07_2_product_page_heading.php:84
+msgid "Products Per Row for Mobile"
+msgstr ""
+
+#: admin/elements/nasa_07_2_product_page_heading.php:95
+msgid "Products Per Row for Tablet"
+msgstr ""
+
+#: cores/nasa-theme-footers.php:297
+msgid "Products viewed"
+msgstr ""
+
+#: admin/elements/nasa_10_portfolio_heading.php:63
+msgid "Project Category"
+msgstr ""
+
+#: admin/elements/nasa_10_portfolio_heading.php:70
+#: admin/elements/nasa_10_portfolio_heading.php:71
+msgid "Project Name"
+msgstr ""
+
+#: admin/elements/nasa_09_promo_popup_heading.php:17
+msgid "Promo Popup"
+msgstr ""
+
+#: cores/nasa-woo-functions.php:1612 cores/nasa-woo-functions.php:1614
+#: cores/nasa-woo-functions.php:1645
+msgid "Promotion Gifts"
+msgstr ""
+
+#: admin/elements/nasa_11_promotion_news_heading.php:15
+msgid "Promotion news"
+msgstr ""
+
+#: image.php:26
+#, php-format
+msgid ""
+"Published <span class=\"entry-date\"><time class=\"entry-date\" "
+"datetime=\"%1$s\">%2$s</time></span> at <a href=\"%3$s\" title=\"Link to "
+"full-size image\">%4$s &times; %5$s</a> in <a href=\"%6$s\" title=\"Return "
+"to %7$s\" rel=\"gallery\">%8$s</a>"
+msgstr ""
+
+#: woocommerce/cart/cart.php:28
+msgid "Quantity"
+msgstr "Количество"
+
+#: widgets/wg-nasa-product-filter-variations.php:149
+msgid "Query type"
+msgstr ""
+
+#: admin/elements/nasa_07_3_product_detail_heading.php:128
+msgid "Quick Buy Add To Cart"
+msgstr ""
+
+#: cores/nasa-woo-functions.php:792 cores/nasa-woo-functions.php:1585
+#: cores/nasa-woo-functions.php:1585 cores/nasa-woo-functions.php:1587
+#: woocommerce/content-widget-product.php:87
+#: woocommerce/content-widget-product.php:118
+msgid "Quick View"
+msgstr ""
+
+#: woocommerce/content-widget-product.php:89
+#: woocommerce/content-widget-product.php:120
+msgid "Quick view"
+msgstr ""
+
+#: cores/nasa-theme-footers.php:361
+msgid "Quickview"
+msgstr ""
+
+#: archive.php:93
+msgid "Quotes"
+msgstr ""
+
+#: woocommerce/single-product/review.php:22
+#, php-format
+msgid "Rated %d out of 5"
+msgstr ""
+
+#: includes/nasa-blog-relate.php:113 includes/nasa-blog-relate.php:116
+#: includes/nasa-blog-relate.php:150 includes/nasa-blog-relate.php:153
+msgid "Read more"
+msgstr ""
+
+#: no-results.php:19
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: widgets/wg-nasa-recent-posts.php:29
+msgid "Recent Posts"
+msgstr ""
+
+#: admin/elements/nasa_10_portfolio_heading.php:42
+#: admin/elements/nasa_10_portfolio_heading.php:43
+msgid "Recent Projects"
+msgstr ""
+
+#: single-portfolio.php:34
+msgid "Recent Works"
+msgstr ""
+
+#: cores/nasa-theme-footers.php:306
+msgid "Recently Viewed"
+msgstr ""
+
+#: admin/classes/class-tgm-plugin-activation.php:2326
+msgid "Recommended"
+msgstr ""
+
+#: cores/nasa-woo-functions.php:576
+msgid "Register or sign in"
+msgstr ""
+
+#: cores/nasa-shop-ajax.php:374
+msgid "Register success."
+msgstr ""
+
+#: includes/nasa-blog-relate.php:16
+msgid "Related posts"
+msgstr ""
+
+#: woocommerce/single-product/related.php:30
+msgid "Related Products"
+msgstr ""
+
+#: includes/nasa-login-register-form.php:39
+msgid "Remember"
+msgstr ""
+
+#: includes/nasa-view-compare.php:117
+#: admin/classes/class.options_machine.php:770
+#: admin/classes/class.options_machine.php:851
+msgid "Remove"
+msgstr ""
+
+#: includes/nasa-sidebar-cart.php:53 woocommerce/cart/cart.php:55
+msgid "Remove this item"
+msgstr ""
+
+#: wishlist.php:90
+msgid "Remove this product"
+msgstr ""
+
+#: cores/nasa-custom-wc-ajax.php:638
+msgid "Removed all products from compare !"
+msgstr ""
+
+#: cores/nasa-custom-wc-ajax.php:599
+msgid "Removed product from compare !"
+msgstr ""
+
+#: admin/functions/functions.admin.php:1628
+msgid "Require ZIP file."
+msgstr ""
+
+#: admin/classes/class-tgm-plugin-activation.php:2323
+msgid "Required"
+msgstr ""
+
+#: admin/classes/class-tgm-plugin-activation.php:2377
+msgid "Required Update not Available"
+msgstr ""
+
+#: admin/classes/class-tgm-plugin-activation.php:2379
+msgid "Requires Update"
+msgstr ""
+
+#: cores/nasa-widget-functions.php:103 widgets/wg-nasa-reset-filter.php:58
+msgid "Reset"
+msgstr ""
+
+#: admin/front-end/options.php:29
+msgid "Reset WordPress plugin"
+msgstr ""
+
+#: admin/elements/nasa_07_1_product_global_heading.php:183
+msgid "Results Ajax search products limit"
+msgstr ""
+
+#: admin/elements/nasa_02_logo_icon_heading.php:29
+msgid "Retina Logo"
+msgstr ""
+
+#: cores/nasa-theme-functions.php:335
+msgid "Return to Previous Page"
+msgstr ""
+
+#: admin/classes/class-tgm-plugin-activation.php:374
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: wishlist.php:99 cores/nasa-woo-functions.php:683
+msgid "RETURN TO SHOP"
+msgstr "ЗАКРЫТЬ"
+
+#: admin/classes/class-tgm-plugin-activation.php:375
+#: admin/classes/class-tgm-plugin-activation.php:890
+#: admin/classes/class-tgm-plugin-activation.php:2566
+#: admin/classes/class-tgm-plugin-activation.php:3621
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: page-checkout.php:37 page-checkout.php:61
+msgid "Review And Submit Your Order"
+msgstr ""
+
+#: page-shopping-cart.php:37 page-shopping-cart.php:61
+msgid "Review and submit your order"
+msgstr ""
+
+#: admin/index.php:53
+msgid "Revolution Slider"
+msgstr ""
+
+#: admin/elements/nasa_06_breadcrumb_heading.php:85
+#: admin/elements/nasa_07_3_product_detail_heading.php:180
+msgid "Right"
+msgstr ""
+
+#: admin/elements/nasa_07_3_product_detail_heading.php:82
+msgid "Right Sidebar"
+msgstr ""
+
+#: admin/elements/nasa_08_blog_heading.php:27
+#: admin/elements/nasa_08_blog_heading.php:40
+msgid "Right sidebar"
+msgstr ""
+
+#: admin/elements/nasa_07_2_product_page_heading.php:32
+msgid "Right Sidebar Classic"
+msgstr ""
+
+#: admin/elements/nasa_07_2_product_page_heading.php:31
+msgid "Right Sidebar Off-canvas"
+msgstr ""
+
+#: cores/nasa-woo-functions.php:2044 cores/nasa-woo-functions.php:2057
+msgid "SALE"
+msgstr ""
+
+#: admin/elements/nasa_04_style_color_heading.php:67
+msgid "Sale label Color"
+msgstr ""
+
+#: admin/front-end/options.php:59 admin/front-end/options.php:83
+msgid "Save All Changes"
+msgstr ""
+
+#: admin/elements/nasa_07_3_product_detail_heading.php:53
+msgid "Scroll images"
+msgstr ""
+
+#: admin/elements/nasa_07_3_product_detail_heading.php:70
+msgid "Scroll to main image when active variable product"
+msgstr ""
+
+#: cores/nasa-theme-headers.php:430
+msgid "Search"
+msgstr ""
+
+#: searchform.php:22 includes/nasa-mobile-product-searchform.php:22
+msgid "search"
+msgstr ""
+
+#: searchform.php:19 includes/nasa-mobile-product-searchform.php:18
+msgid "Search here"
+msgstr ""
+
+#: admin/functions/functions.admin.php:1529
+msgid "Search icon"
+msgstr ""
+
+#: search.php:39
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: options/nasa-options.php:319
+msgid "Sec"
+msgstr ""
+
+#: admin/elements/nasa_04_style_color_heading.php:35
+msgid "Secondary Color"
+msgstr ""
+
+#: options/nasa-options.php:312
+msgid "Secs"
+msgstr ""
+
+#: admin/front-end/options.php:29
+#, php-format
+msgid ""
+"Seems like an error has occured. Please double check the imported data. If "
+"incorrect, please use %s and try again"
+msgstr ""
+
+#: admin/elements/nasa_07_1_product_global_heading.php:68
+msgid "Select Add To Cart in Grid"
+msgstr ""
+
+#: admin/elements/nasa_05_type_heading.php:81
+msgid "Select banners font"
+msgstr ""
+
+#: admin/functions/functions.admin.php:242
+msgid "Select category"
+msgstr ""
+
+#: admin/elements/nasa_09_promo_popup_heading.php:60
+#: admin/elements/nasa_09_promo_popup_heading.php:61
+msgid "Select contact form"
+msgstr ""
+
+#: admin/elements/nasa_05_type_heading.php:135
+msgid "Select custom font"
+msgstr ""
+
+#: admin/elements/nasa_05_type_heading.php:25
+msgid "Select font use in your site."
+msgstr ""
+
+#: admin/elements/nasa_03_header_footer_heading.php:280
+msgid "Select Footer type"
+msgstr ""
+
+#: admin/elements/nasa_03_header_footer_heading.php:59
+msgid "Select Header Builder"
+msgstr ""
+
+#: admin/elements/nasa_03_header_footer_heading.php:28
+msgid "Select header type"
+msgstr ""
+
+#: admin/elements/nasa_05_type_heading.php:53
+msgid "Select heading fonts"
+msgstr ""
+
+#: admin/elements/nasa_05_type_heading.php:39
+msgid "Select heading fonts."
+msgstr ""
+
+#: admin/elements/nasa_07_1_product_global_heading.php:44
+msgid "Select Icon Mini Cart"
+msgstr ""
+
+#: admin/elements/nasa_07_2_product_page_heading.php:22
+msgid "Select if you want a sidebar on product categories."
+msgstr ""
+
+#: admin/elements/nasa_07_1_product_global_heading.php:22
+msgid "Select if you want change hover product image."
+msgstr ""
+
+#: admin/elements/nasa_06_breadcrumb_heading.php:78
+msgid "Select if you want change Text Align."
+msgstr ""
+
+#: admin/elements/nasa_07_2_product_page_heading.php:144
+msgid "Select Layout style."
+msgstr ""
+
+#: admin/elements/nasa_05_type_heading.php:67
+msgid "Select navigation fonts"
+msgstr ""
+
+#: admin/functions/functions.admin.php:1557
+msgid "Select page view compare"
+msgstr ""
+
+#: admin/elements/nasa_07_4_product_compare_heading.php:32
+msgid "Select page view compare products."
+msgstr ""
+
+#: admin/functions/functions.admin.php:1573
+msgid "Select page view Portfolio"
+msgstr ""
+
+#: admin/elements/nasa_10_portfolio_heading.php:35
+msgid "Select page view Portfolio."
+msgstr ""
+
+#: admin/elements/nasa_05_type_heading.php:95
+msgid "Select price font"
+msgstr ""
+
+#: admin/elements/nasa_07_2_product_page_heading.php:157
+msgid "Select style for pagination"
+msgstr ""
+
+#: admin/elements/nasa_09_promo_popup_heading.php:108
+msgid "Select the Contact form"
+msgstr ""
+
+#: admin/elements/nasa_03_header_footer_heading.php:270
+msgid "Select the Footer type"
+msgstr ""
+
+#: admin/elements/nasa_03_header_footer_heading.php:49
+msgid "Select the Header custom"
+msgstr ""
+
+#: admin/elements/nasa_03_header_footer_heading.php:109
+msgid "Select the Static Block"
+msgstr ""
+
+#: admin/elements/nasa_07_2_product_page_heading.php:115
+msgid "Select type view"
+msgstr ""
+
+#: admin/elements/nasa_07_2_product_page_heading.php:116
+msgid "Select type view."
+msgstr ""
+
+#: admin/functions/functions.admin.php:1589
+msgid "Select your custom Font."
+msgstr ""
+
+#: admin/elements/nasa_01_general_heading.php:41
+msgid "Selects site layout."
+msgstr ""
+
+#: includes/nasa-login-register-form.php:117
+msgid "SETUP YOUR ACCOUNT"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:42
+msgid "Shipping"
+msgstr ""
+
+#: woocommerce/loop/orderby.php:17
+msgid "Shop order"
+msgstr ""
+
+#: options/nasa-options.php:370
+msgid "Shop Sidebar"
+msgstr ""
+
+#: admin/elements/nasa_07_2_product_page_heading.php:21
+msgid "Shop sidebar"
+msgstr ""
+
+#: page-checkout.php:19 page-checkout.php:45 page-checkout.php:69
+#: page-shopping-cart.php:19 page-shopping-cart.php:45
+#: page-shopping-cart.php:69
+msgid "Shopping Cart"
+msgstr "Ваша корзина"
+
+#: includes/nasa-blog-promotion.php:39
+msgid "Show"
+msgstr ""
+
+#: portfolio.php:45
+msgid "Show All"
+msgstr ""
+
+#: widgets/wg-nasa-product-brands.php:50
+#: widgets/wg-nasa-product-categories.php:67
+msgid "Show as Accordion"
+msgstr ""
+
+#: admin/elements/nasa_08_blog_heading.php:128
+#: admin/elements/nasa_08_blog_heading.php:130
+msgid "Show author info"
+msgstr ""
+
+#: admin/elements/nasa_06_breadcrumb_heading.php:21
+#: admin/elements/nasa_06_breadcrumb_heading.php:22
+msgid "Show breadcrumb"
+msgstr ""
+
+#: admin/elements/nasa_08_blog_heading.php:144
+#: admin/elements/nasa_08_blog_heading.php:146
+msgid "Show Categories info"
+msgstr ""
+
+#: admin/elements/nasa_08_blog_heading.php:136
+#: admin/elements/nasa_08_blog_heading.php:138
+msgid "Show datetime info"
+msgstr ""
+
+#: widgets/wg-nasa-product-brands.php:55
+#: widgets/wg-nasa-product-categories.php:72
+#: widgets/wg-nasa-product-filter-variations.php:158
+msgid "Show default numbers items"
+msgstr ""
+
+#: admin/classes/class-tgm-plugin-activation.php:3550
+#: admin/classes/class-tgm-plugin-activation.php:3558
+msgid "Show Details"
+msgstr ""
+
+#: widgets/wg-nasa-product-categories.php:57
+msgid "Show hierarchy"
+msgstr ""
+
+#: widgets/wg-nasa-tag-cloud.php:143
+msgid "Show items (<= 0 ~ All)"
+msgstr ""
+
+#: cores/nasa-theme-options.php:112
+msgid "Show Mini Cart"
+msgstr ""
+
+#: cores/nasa-theme-options.php:124
+msgid "Show Mini Compare"
+msgstr ""
+
+#: cores/nasa-theme-options.php:136
+msgid "Show Mini Wishlist"
+msgstr ""
+
+#: widgets/wg-nasa-product-brands.php:45
+#: widgets/wg-nasa-product-categories.php:52
+#: widgets/wg-nasa-product-filter-variations.php:177
+msgid "Show product counts"
+msgstr ""
+
+#: admin/elements/nasa_08_blog_heading.php:160
+#: admin/elements/nasa_08_blog_heading.php:162
+msgid "Show Readmore blog"
+msgstr ""
+
+#: admin/elements/nasa_08_blog_heading.php:186
+msgid "Show Related"
+msgstr ""
+
+#: admin/elements/nasa_08_blog_heading.php:184
+msgid "Show Related post"
+msgstr ""
+
+#: admin/elements/nasa_08_blog_heading.php:170
+msgid "Show Short description"
+msgstr ""
+
+#: admin/elements/nasa_08_blog_heading.php:168
+msgid "Show Short description (Only use for Blog Grid layout)"
+msgstr ""
+
+#: admin/elements/nasa_07_3_product_detail_heading.php:138
+msgid "Show Stock with Process Bar"
+msgstr ""
+
+#: admin/elements/nasa_08_blog_heading.php:152
+#: admin/elements/nasa_08_blog_heading.php:154
+msgid "Show Tags info"
+msgstr ""
+
+#: admin/elements/nasa_07_3_product_detail_heading.php:152
+#: admin/elements/nasa_07_3_product_detail_heading.php:154
+msgid "Show the Specifications in the Desciption tab"
+msgstr ""
+
+#: admin/elements/nasa_07_2_product_page_heading.php:169
+msgid "Show title in one line"
+msgstr ""
+
+#: admin/elements/nasa_03_header_footer_heading.php:159
+#: admin/elements/nasa_03_header_footer_heading.php:160
+msgid "Show Topbar left"
+msgstr ""
+
+#: admin/elements/nasa_07_1_product_global_heading.php:229
+#: admin/elements/nasa_07_1_product_global_heading.php:231
+msgid "Show Uncategorized"
+msgstr ""
+
+#: cores/nasa-woo-functions.php:528 cores/nasa-woo-functions.php:536
+#, php-format
+msgid "Showing the single result"
+msgid_plural "Showing all %d results"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: widgets/wg-nasa-product-filter-variations.php:28
+msgid ""
+"Shows a custom attribute in a widget which lets you narrow down the list of "
+"products when viewing product categories."
+msgstr ""
+
+#: widgets/wg-nasa-product-filter-price.php:27
+msgid ""
+"Shows a price filter slider in a widget which lets you narrow down the list "
+"of shown products when viewing product categories."
+msgstr ""
+
+#: archive.php:55 index.php:54 search.php:31 single.php:54
+#: includes/nasa-single-product-classic.php:4
+#: includes/nasa-single-product-new.php:22 woocommerce/archive-product.php:295
+msgid "Sidebar"
+msgstr ""
+
+#: admin/elements/nasa_07_1_product_global_heading.php:108
+msgid "Sidebar holder"
+msgstr ""
+
+#: includes/nasa-login-register-form.php:127
+msgid "Sign in here"
+msgstr ""
+
+#: includes/nasa-login-register-form.php:59
+msgid "SIGN IN TO YOUR ACCOUNT"
+msgstr ""
+
+#: admin/elements/nasa_07_2_product_page_heading.php:161
+msgid "Simple"
+msgstr ""
+
+#: admin/elements/nasa_08_blog_heading.php:20
+msgid "Single Blog layout"
+msgstr ""
+
+#: admin/elements/nasa_08_blog_heading.php:178
+#: admin/elements/nasa_08_blog_heading.php:179
+msgid "Single Blog page"
+msgstr ""
+
+#: admin/elements/nasa_07_3_product_detail_heading.php:40
+msgid "Single image"
+msgstr ""
+
+#: admin/elements/nasa_07_3_product_detail_heading.php:21
+msgid "Single Product Layout"
+msgstr ""
+
+#: admin/elements/nasa_07_3_product_detail_heading.php:15
+msgid "Single Product Page"
+msgstr ""
+
+#: admin/elements/nasa_07_1_product_global_heading.php:121
+msgid "Single Thumbnail"
+msgstr ""
+
+#: admin/elements/nasa_01_general_heading.php:61
+msgid "Site Background Color"
+msgstr ""
+
+#: admin/elements/nasa_01_general_heading.php:69
+msgid "Site Background Image"
+msgstr ""
+
+#: admin/elements/nasa_01_general_heading.php:40
+msgid "Site Layout"
+msgstr ""
+
+#: admin/elements/nasa_01_general_heading.php:77
+msgid "Site RTL"
+msgstr ""
+
+#: cores/nasa-theme-options.php:36 admin/classes/class.options_machine.php:829
+#: admin/elements/nasa_07_3_product_detail_heading.php:168
+msgid "Slide"
+msgstr ""
+
+#: admin/elements/nasa_11_promotion_news_heading.php:70
+msgid "Slide display"
+msgstr ""
+
+#: admin/elements/nasa_07_3_product_detail_heading.php:52
+msgid "Slide images"
+msgstr ""
+
+#: widgets/wg-nasa-product-filter-variations.php:165
+msgid "Slide Up-Down"
+msgstr ""
+
+#: cores/nasa-woo-functions.php:2072
+msgid "Sold Out"
+msgstr ""
+
+#: includes/nasa-content-product-gift.php:55
+msgid "Sold out"
+msgstr ""
+
+#: admin/classes/class.options_machine.php:344
+msgid "Solid"
+msgstr ""
+
+#: admin/classes/class-tgm-plugin-activation.php:340
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: admin/front-end/options.php:33
+msgid ""
+"Sorry but your import failed. Most likely, it cannot work with your webhost. "
+"You will have to ask your webhost to increase your PHP max_execution_time "
+"(or any other webserver timeout to at least 300 secs) and memory_limit (to "
+"at least 196M) temporarily."
+msgstr ""
+"Извините, но ваш импорт не удался. Скорее всего, он не может работать с "
+"вашим веб-хостом. Вам нужно будет попросить своего веб-хоста временно "
+"увеличить PHP max_execution_time (или время ожидания любого другого веб-"
+"сервера как минимум до 300 секунд) и memory_limit (как минимум до 196M).\n"
+
+#: no-results.php:23
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+"Извините, но ничего не соответствует вашим условиям поиска. Пожалуйста, "
+"попытайтесь снова с другими ключевыми словами."
+
+#: 404.php:16
+msgid ""
+"Sorry, but the page you are looking for is not found. Please, make sure you "
+"have typed the current URL."
+msgstr "Извините, но страница, которую вы ищете, не найдена."
+
+#: cores/nasa-custom-wc-ajax.php:488
+msgid "Sorry, Maybe product empty in stock."
+msgstr "Извините, возможно товара нет на складе."
+
+#: options/nasa-options.php:265
+msgid ""
+"Sorry, no products matched your selection. Please choose a different "
+"combination."
+msgstr ""
+"Извините, ни один товар не соответствует вашему выбору. Пожалуйста, выберите "
+"другую комбинацию."
+
+#: cores/nasa-custom-wc-ajax.php:396
+msgid "Sorry, Product is not existing."
+msgstr "Извините, товара не существует."
+
+#: cores/nasa-custom-wc-ajax.php:108
+msgid "Sorry, this product is unavailable."
+msgstr "Извините, этот товара недоступен."
+
+#: cores/nasa-theme-footers.php:503 options/nasa-options.php:267
+msgid ""
+"Sorry, this product is unavailable. Please choose a different combination."
+msgstr ""
+"Извините, этот товара недоступен. Пожалуйста, выберите другую комбинацию.\n"
+
+#: cores/nasa-theme-footers.php:477
+msgid "Sorry. No results match your search."
+msgstr "Сожалею. Нет результатов, соответствующих вашему запросу."
+
+#: woocommerce/archive-product.php:179 woocommerce/archive-product.php:224
+#: woocommerce/archive-product.php:259 woocommerce/archive-product.php:301
+msgid "Sort by: "
+msgstr ""
+
+#: admin/classes/class-tgm-plugin-activation.php:2581
+msgid "Source"
+msgstr ""
+
+#: woocommerce/single-product/tabs/tabs.php:80
+msgid "Specifications"
+msgstr ""
+
+#: admin/elements/nasa_08_blog_heading.php:54
+msgid "Standard"
+msgstr ""
+
+#: admin/elements/nasa_08_blog_heading.php:106
+#: admin/elements/nasa_08_blog_heading.php:107
+msgid "Standard - Blog style"
+msgstr ""
+
+#: admin/classes/class-tgm-plugin-activation.php:2587
+msgid "Status"
+msgstr ""
+
+#: admin/elements/nasa_03_header_footer_heading.php:124
+msgid "Sticky"
+msgstr ""
+
+#: admin/elements/nasa_07_3_product_detail_heading.php:136
+msgid "Stock Process Bar"
+msgstr ""
+
+#: cores/nasa-theme-options.php:29
+msgid "Style"
+msgstr ""
+
+#: admin/elements/nasa_04_style_color_heading.php:15
+msgid "Style and Colors"
+msgstr ""
+
+#: admin/elements/nasa_04_style_color_heading.php:21
+#: admin/elements/nasa_04_style_color_heading.php:22
+msgid "Style and Colors Global Option"
+msgstr ""
+
+#: admin/elements/nasa_07_1_product_global_heading.php:129
+msgid "Style cart sidebar"
+msgstr ""
+
+#: admin/elements/nasa_07_1_product_global_heading.php:130
+msgid "Style cart sidebar."
+msgstr ""
+
+#: admin/elements/nasa_07_1_product_global_heading.php:101
+msgid "Style Quickview"
+msgstr ""
+
+#: admin/elements/nasa_07_1_product_global_heading.php:102
+msgid "Style Quickview."
+msgstr ""
+
+#: admin/elements/nasa_07_1_product_global_heading.php:254
+msgid "Style viewed icon"
+msgstr ""
+
+#: admin/elements/nasa_07_1_product_global_heading.php:255
+msgid "Style viewed icon."
+msgstr ""
+
+#: admin/elements/nasa_07_1_product_global_heading.php:266
+msgid "Style viewed sidebar"
+msgstr ""
+
+#: admin/elements/nasa_07_1_product_global_heading.php:267
+msgid "Style viewed sidebar."
+msgstr ""
+
+#: admin/elements/nasa_07_1_product_global_heading.php:141
+msgid "Style wishlist sidebar"
+msgstr ""
+
+#: admin/elements/nasa_07_1_product_global_heading.php:142
+msgid "Style wishlist sidebar."
+msgstr ""
+
+#: cores/nasa-woo-functions.php:2382 cores/nasa-woo-functions.php:2395
+msgid "Subcategories: "
+msgstr ""
+
+#: includes/nasa-sidebar-cart.php:65 woocommerce/cart/cart-totals.php:25
+msgid "Subtotal"
+msgstr "Промежуточный итог"
+
+#: admin/elements/nasa_04_style_color_heading.php:43
+msgid "Success Color"
+msgstr ""
+
+#: admin/elements/nasa_07_3_product_detail_heading.php:173
+msgid "Tabs align"
+msgstr ""
+
+#: cores/nasa-theme-options.php:43
+msgid "Tabs Background color"
+msgstr ""
+
+#: admin/elements/nasa_07_3_product_detail_heading.php:160
+msgid "Tabs style"
+msgstr ""
+
+#: cores/nasa-theme-options.php:56
+msgid "Tabs text color"
+msgstr ""
+
+#: archive.php:68
+#, php-format
+msgid "Tag Archives: %s"
+msgstr ""
+
+#: includes/nasa-blog-grid.php:98 includes/nasa-blog-list.php:87
+#: includes/nasa-blog-masonry-isotope.php:102
+#: includes/nasa-blog-standard.php:78
+#, php-format
+msgid "Tagged %1$s"
+msgstr ""
+
+#: widgets/wg-nasa-tag-cloud.php:38
+msgid "Tags"
+msgstr ""
+
+#: single-featured_item.php:19
+msgid "Tags:"
+msgstr ""
+
+#: admin/classes/class.options_machine.php:289
+msgid "Tahoma, Geneva"
+msgstr ""
+
+#: widgets/wg-nasa-tag-cloud.php:130
+msgid "Taxonomy:"
+msgstr ""
+
+#: admin/elements/nasa_03_header_footer_heading.php:207
+msgid "Text color hover for items Topbar."
+msgstr ""
+
+#: admin/elements/nasa_05_type_heading.php:52
+msgid "Text fonts (paragraphs, buttons, sub-navigations)"
+msgstr ""
+
+#: admin/elements/nasa_11_promotion_news_heading.php:87
+#: admin/elements/nasa_11_promotion_news_heading.php:88
+msgid "Text promotion color"
+msgstr ""
+
+#. %s: version number
+#: admin/classes/class-tgm-plugin-activation.php:2027
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:30 woocommerce/checkout/thankyou.php:64
+msgid "Thank you. Your order has been received."
+msgstr ""
+
+#: admin/functions/functions.admin.php:1639
+#: admin/functions/functions.admin.php:1645
+msgid "The file you are trying to upload is not a .zip file. Please try again."
+msgstr ""
+
+#: admin/classes/class-tgm-plugin-activation.php:349
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: admin/classes/class-tgm-plugin-activation.php:377
+#: admin/classes/class-tgm-plugin-activation.php:2980
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: admin/classes/class-tgm-plugin-activation.php:361
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: admin/classes/class-tgm-plugin-activation.php:357
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: admin/classes/class-tgm-plugin-activation.php:3548
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#. 1: plugin name.
+#: admin/classes/class-tgm-plugin-activation.php:3544
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: admin/classes/class-tgm-plugin-activation.php:3556
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: admin/elements/nasa_01_general_heading.php:54
+msgid "The max-width of your site will be INPUT + 1200 (pixel)."
+msgstr ""
+
+#: admin/classes/class-tgm-plugin-activation.php:1001
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: admin/classes/class-tgm-plugin-activation.php:998
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: widgets/wg-nasa-tag-cloud.php:115
+msgid ""
+"The tag cloud will not be displayed since there are no taxonomies that "
+"support the tag cloud widget."
+msgstr ""
+
+#: includes/nasa-sidebar-wishlist.php:2
+msgid "Theme has not been installed or enabled Plugin Yith Wishlist."
+msgstr ""
+
+#: admin/front-end/options.php:20
+msgid "Theme Options"
+msgstr ""
+
+#: admin/classes/class-tgm-plugin-activation.php:385
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: admin/classes/class-tgm-plugin-activation.php:353
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: admin/elements/nasa_05_type_heading.php:72
+msgid "THIS IS THE TEXT."
+msgstr ""
+
+#: admin/elements/nasa_05_type_heading.php:86
+msgid "This is the text."
+msgstr ""
+
+#: admin/classes/class-tgm-plugin-activation.php:587
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: admin/classes/class-tgm-plugin-activation.php:345
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: admin/classes/class-tgm-plugin-activation.php:341
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: admin/classes/class.options_machine.php:288
+msgid "Times New Roman"
+msgstr ""
+
+#: widgets/wg-nasa-product-brands.php:40
+#: widgets/wg-nasa-product-categories.php:38
+#: widgets/wg-nasa-product-filter-price-list.php:25
+#: widgets/wg-nasa-product-filter-price.php:34
+#: widgets/wg-nasa-product-filter-variations.php:137
+#: widgets/wg-nasa-reset-filter.php:33
+#: admin/classes/class.options_machine.php:838
+msgid "Title"
+msgstr ""
+
+#: widgets/wg-nasa-recent-posts.php:104 widgets/wg-nasa-tag-cloud.php:102
+msgid "Title:"
+msgstr ""
+
+#. 1: number of plugins.
+#: admin/classes/class-tgm-plugin-activation.php:2446
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#. 1: number of plugins.
+#: admin/classes/class-tgm-plugin-activation.php:2438
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: admin/elements/nasa_03_header_footer_heading.php:175
+msgid "Toggle Header Icons in Mobile"
+msgstr ""
+
+#: admin/elements/nasa_03_header_footer_heading.php:176
+msgid "Toggle Show/Hide Header Icons in Mobile"
+msgstr ""
+
+#: admin/elements/nasa_03_header_footer_heading.php:134
+msgid "Toggle Show/Hide Top Bar"
+msgstr ""
+
+#: admin/elements/nasa_03_header_footer_heading.php:133
+msgid "Toggle Top Bar"
+msgstr ""
+
+#: admin/elements/nasa_07_2_product_page_heading.php:64
+msgid "Top"
+msgstr ""
+
+#: admin/elements/nasa_07_2_product_page_heading.php:27
+msgid "Top Bar"
+msgstr ""
+
+#: admin/elements/nasa_07_2_product_page_heading.php:40
+msgid "Top Bar Label"
+msgstr ""
+
+#: admin/elements/nasa_07_2_product_page_heading.php:42
+msgid "Top Bar Label value."
+msgstr ""
+
+#: admin/elements/nasa_03_header_footer_heading.php:167
+msgid "Top bar left content"
+msgstr ""
+
+#: admin/elements/nasa_07_2_product_page_heading.php:49
+msgid "Top Bar Limit widgets to Show More"
+msgstr ""
+
+#: admin/elements/nasa_07_2_product_page_heading.php:28
+msgid "Top Bar Type 2"
+msgstr ""
+
+#: admin/elements/nasa_07_2_product_page_heading.php:177
+#: admin/elements/nasa_07_2_product_page_heading.php:178
+msgid "Top content Products page"
+msgstr ""
+
+#: functions.php:39
+msgid "Top Menu - Only show level 1"
+msgstr ""
+
+#: admin/elements/nasa_03_header_footer_heading.php:190
+msgid "Topbar Background"
+msgstr ""
+
+#: admin/elements/nasa_03_header_footer_heading.php:191
+msgid "Topbar Background."
+msgstr ""
+
+#: admin/elements/nasa_03_header_footer_heading.php:198
+msgid "Topbar Text color"
+msgstr ""
+
+#: admin/elements/nasa_03_header_footer_heading.php:206
+msgid "Topbar Text color hover"
+msgstr ""
+
+#: admin/elements/nasa_03_header_footer_heading.php:199
+msgid "Topbar Text color."
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:73 woocommerce/cart/cart.php:29
+msgid "Total"
+msgstr "Итого"
+
+#: woocommerce/checkout/thankyou.php:41
+msgid "Total:"
+msgstr "Итого:"
+
+#: image.php:92
+msgid ""
+"Trackbacks are closed, but you can <a class=\"comment-link\" "
+"href=\"#respond\" title=\"Post a comment\">post a comment</a>."
+msgstr ""
+
+#: admin/elements/nasa_12_backup_options_heading.php:29
+msgid "Transfer Theme Options Data"
+msgstr ""
+
+#: admin/elements/nasa_03_header_footer_heading.php:96
+#: admin/elements/nasa_03_header_footer_heading.php:97
+msgid "Transparent header"
+msgstr ""
+
+#: admin/classes/class.options_machine.php:286
+msgid "Trebuchet"
+msgstr ""
+
+#: admin/classes/class-tgm-plugin-activation.php:2582
+msgid "Type"
+msgstr ""
+
+#: admin/elements/nasa_11_promotion_news_heading.php:30
+msgid "Type display \"My content custom\" or \"List posts\""
+msgstr ""
+
+#: admin/elements/nasa_11_promotion_news_heading.php:29
+msgid "Type display selected"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:19
+msgid ""
+"Unfortunately your order cannot be processed as the originating "
+"bank/merchant has declined your transaction. Please attempt your purchase "
+"again."
+msgstr ""
+
+#: admin/classes/class-tgm-plugin-activation.php:2754
+msgid "Update"
+msgstr ""
+
+#. %2$s: plugin name in screen reader markup
+#: admin/classes/class-tgm-plugin-activation.php:2641
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#. 1: number of plugins.
+#: admin/classes/class-tgm-plugin-activation.php:2442
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: woocommerce/cart/cart.php:132
+msgid "Update Cart"
+msgstr "Обновить корзину"
+
+#: admin/classes/class-tgm-plugin-activation.php:2381
+msgid "Update recommended"
+msgstr ""
+
+#: admin/classes/class-tgm-plugin-activation.php:587
+msgid "Update Required"
+msgstr ""
+
+#. 1: plugin name, 2: action number 3: total number of actions.
+#: admin/classes/class-tgm-plugin-activation.php:3536
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#. %s: plugin name.
+#: admin/classes/class-tgm-plugin-activation.php:339
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: admin/classes/class-tgm-plugin-activation.php:2715
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: admin/classes/class.options_machine.php:772
+msgid "Upgrade your version of WordPress for full media support."
+msgstr ""
+
+#: admin/classes/class.options_machine.php:594
+#: admin/classes/class.options_machine.php:763
+#: admin/classes/class.options_machine.php:844
+msgid "Upload"
+msgstr ""
+
+#: admin/elements/nasa_02_logo_icon_heading.php:22
+msgid "Upload logo here."
+msgstr ""
+
+#: admin/functions/functions.admin.php:1703
+msgid "Upload new custom font success!"
+msgstr ""
+
+#: admin/elements/nasa_05_type_heading.php:128
+msgid "Upload new custom font."
+msgstr ""
+
+#: admin/elements/nasa_05_type_heading.php:127
+msgid "Upload new font"
+msgstr ""
+
+#: admin/elements/nasa_02_logo_icon_heading.php:30
+msgid "Upload retina logo."
+msgstr ""
+
+#: admin/elements/nasa_05_type_heading.php:44
+msgid "UPPERCASE TEXT"
+msgstr ""
+
+#: includes/nasa-login-register-form.php:86
+msgid "Username"
+msgstr ""
+
+#: cores/nasa-shop-ajax.php:259
+msgid "Username is required."
+msgstr ""
+
+#: includes/nasa-login-register-form.php:35
+msgid "Username or email"
+msgstr ""
+
+#: admin/classes/class.options_machine.php:285
+msgid "Verdana, Geneva"
+msgstr ""
+
+#: woocommerce/single-product/review.php:35
+msgid "verified owner"
+msgstr ""
+
+#: admin/classes/class-tgm-plugin-activation.php:2586
+msgid "Version"
+msgstr ""
+
+#: functions.php:38
+msgid "Vertical Menu"
+msgstr ""
+
+#: archive.php:90
+msgid "Videos"
+msgstr ""
+
+#: admin/elements/nasa_05_type_heading.php:120
+msgid "Vietnamese"
+msgstr ""
+
+#: cores/nasa-woo-functions.php:1585 cores/nasa-woo-functions.php:1587
+msgid "View"
+msgstr ""
+
+#: cores/nasa-theme-functions.php:752
+#, php-format
+msgid "View all posts by %s"
+msgstr ""
+
+#: includes/nasa-sidebar-cart.php:72
+msgid "VIEW CART"
+msgstr "ПОКАЗАТЬ КОРЗИНУ"
+
+#: includes/nasa-combo-products.php:30
+msgid "View more"
+msgstr ""
+
+#: cores/nasa-woo-functions.php:1642
+msgid "View the promotion gifts"
+msgstr ""
+
+#: cores/nasa-woo-functions.php:1506
+msgid "View video"
+msgstr ""
+
+#: cores/nasa-theme-footers.php:299
+msgid "Viewed"
+msgstr ""
+
+#: admin/elements/nasa_07_1_product_global_heading.php:246
+msgid "Viewed products limit"
+msgstr ""
+
+#: admin/front-end/options.php:46
+msgid "Warning- This options panel will not work properly without javascript!"
+msgstr ""
+
+#: options/nasa-options.php:315
+msgid "Week"
+msgstr ""
+
+#: options/nasa-options.php:308
+msgid "Weeks"
+msgstr ""
+
+#: admin/elements/nasa_01_general_heading.php:46
+msgid "Wide"
+msgstr ""
+
+#: cores/nasa-theme-options.php:90
+msgid "Width full side"
+msgstr ""
+
+#: cores/nasa-theme-footers.php:272 cores/nasa-woo-functions.php:937
+#: cores/nasa-woo-functions.php:937 cores/nasa-woo-functions.php:970
+#: cores/nasa-woo-functions.php:992 cores/nasa-woo-functions.php:1549
+#: cores/nasa-woo-functions.php:1549 cores/nasa-woo-functions.php:1551
+#: woocommerce/content-widget-product.php:127
+msgid "Wishlist"
+msgstr "Список желаний"
+
+#: admin/elements/nasa_06_breadcrumb_heading.php:37
+msgid "With Background"
+msgstr ""
+
+#: admin/elements/nasa_06_breadcrumb_heading.php:36
+msgid "Without Background"
+msgstr ""
+
+#: admin/index.php:13
+msgid "WooCommerce"
+msgstr ""
+
+#: admin/classes/class-tgm-plugin-activation.php:2342
+msgid "WordPress Repository"
+msgstr ""
+
+#: admin/front-end/options.php:56 admin/front-end/options.php:82
+#: admin/front-end/options.php:85
+msgid "Working..."
+msgstr ""
+
+#: admin/index.php:27
+msgid "WPBakery Page Builder"
+msgstr ""
+
+#: options/nasa-options.php:316
+msgid "Year"
+msgstr ""
+
+#: archive.php:81
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr ""
+
+#: options/nasa-options.php:309
+msgid "Years"
+msgstr ""
+
+#: cores/nasa-theme-options.php:115 cores/nasa-theme-options.php:127
+#: cores/nasa-theme-options.php:139
+msgid "Yes"
+msgstr ""
+
+#: cores/nasa-theme-options.php:22 cores/nasa-theme-options.php:72
+#: admin/elements/nasa_03_header_footer_heading.php:143
+msgid "Yes, please"
+msgstr ""
+
+#: admin/elements/nasa_01_general_heading.php:78
+msgid "Yes, please!"
+msgstr ""
+
+#: admin/index.php:41
+msgid "YITH WooCommerce Compare"
+msgstr ""
+
+#: admin/index.php:35
+msgid "YITH WooCommerce Wishlist"
+msgstr ""
+
+#: admin/elements/nasa_12_backup_options_heading.php:33
+msgid ""
+"You can tranfer the saved options data between different installs by copying "
+"the text inside the text box. To import data from another install, replace "
+"the data in the text box with the one from another install and click "
+"\"Import Options\"."
+msgstr ""
+
+#: admin/elements/nasa_12_backup_options_heading.php:25
+msgid ""
+"You can use the two buttons below to backup your current options, and then "
+"restore it back at a later time. This is useful if you want to experiment on "
+"the options but would like to keep the old settings in case you need it back."
+msgstr ""
+
+#: woocommerce/single-product/up-sells.php:38
+msgid "You may also like&hellip;"
+msgstr ""
+
+#: woocommerce/cart/cross-sells.php:22
+msgid "You may be interested in&hellip;"
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:17
+msgid "You must be logged in to checkout."
+msgstr "Вы должны войти в систему, чтобы оформить заказ."
+
+#: admin/elements/nasa_09_promo_popup_heading.php:125
+msgid "You need install plugin Contact Form 7 and Create Newsletter form"
+msgstr ""
+
+#: woocommerce/single-product/review.php:28
+msgid "Your comment is awaiting approval"
+msgstr ""
+
+#: cores/nasa-theme-functions.php:711
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:47
+msgid "Your order"
+msgstr "Ваш заказ"
+
+#: woocommerce/single-product/product-image.php:109
+msgid "Zoom"
+msgstr ""
